@@ -131,6 +131,7 @@ const ClearCacheButton = () => {
                     color: 'green',
                     autoClose: 1000,
                     title: 'Cache Cleared',
+                    message: '缓存数据已成功清除'
                 })
             }}
             styles={theme => ({
