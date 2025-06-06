@@ -4,7 +4,7 @@ import { Link, NavLink, useRoutes } from "react-router-dom"
 import { Icon } from '@iconify/react';
 import NavContext from "components/navigation/NavContext";
 import { RenderNavigator } from "components/navigation/Layout";
-import { useAppState } from "state";
+import { useAppState, useActions } from "state";
 import Icons from "components/ui/Icons";
 import { showNotification } from "@mantine/notifications";
 
@@ -113,6 +113,43 @@ const ColorSchemeToggle = () => {
             }}
         >
             <Icon icon={theme.colorScheme === 'light' ? Icons.dark : Icons.light} color={theme.colorScheme === 'dark' ? theme.white : theme.black} />
+        </Button>
+    )
+}
+
+const ClearCacheButton = () => {
+    const theme = useMantineTheme();
+    const actions = useActions();
+    return (
+        <Button
+            variant="subtle"
+            color="dark"
+            onClick={() => {
+                actions.clearCache();
+                showNotification({
+                    icon: <Icon icon={Icons.successCircle} width={24} />,
+                    color: 'green',
+                    autoClose: 1000,
+                    title: 'Cache Cleared',
+                })
+            }}
+            styles={theme => ({
+                inner: {
+                    justifyContent: 'flex-start',
+
+                },
+                label: {
+                    color: theme.colorScheme === 'dark' ? theme.colors.dark[7] : theme.colors.gray[6],
+
+                }
+            })}
+            sx={{
+                '&:hover .mantine-Button-label': {
+                    color: theme.colorScheme === 'dark' ? theme.white : theme.colors.dark[9],
+                }
+            }}
+        >
+            Clear Cache
         </Button>
     )
 }
@@ -298,6 +335,7 @@ const AppShellLayout: React.FC = () => {
                                                 return <TopBarNavButton key={`nav-item-${k}`} to={i.to} label={i.label} icon={i.icon} onClick={() => setOpened((o) => !o)} />
                                             })}
                                             <TopBarNavLink to="https://github.com/David-Melo/captains-calculator/issues" label="Bugs & Issues" icon="bug" />
+                                            <ClearCacheButton />
                                             <ColorSchemeToggle />
                                         </Group>
                                     </MediaQuery>
