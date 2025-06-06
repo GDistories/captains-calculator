@@ -12,6 +12,7 @@ export const onInitializeOvermind: AsyncAction = pipe(
     },
     async ({actions}: Context) => {
         actions.loadJsonData()
+        actions.recipes.loadNodes()
     },
     async ({state,actions}: Context) => {
         state.loading = false;

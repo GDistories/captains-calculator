@@ -14,6 +14,20 @@ type ProductionNodeParams = {
     targets: ProductRecipes;
 }
 
+export type SerializedProductionNode = {
+    id: string;
+    recipe: Recipe;
+    machine: Machine;
+    category: Category;
+    inputs: RecipeIODictInput;
+    outputs: RecipeIODictOutput;
+    sources: ProductRecipes;
+    targets: ProductRecipes;
+    duration: number;
+    machinesCount: number;
+    updated: number;
+}
+
 export type RecipeIOImport =  {
     maxed: boolean;
     imported: number;
@@ -190,14 +204,25 @@ class ProductionNode {
     }
 
     toJson() {
-        return JSON.stringify({
+        const data: SerializedProductionNode = {
+            id: this.id,
             recipe: this.recipe,
             machine: this.machine,
             category: this.category,
             inputs: this.inputs,
             outputs: this.outputs,
-            duration: this.duration
-        })
+            sources: this.sources,
+            targets: this.targets,
+            duration: this.duration,
+            machinesCount: this.machinesCount,
+            updated: this.updated,
+        }
+        return JSON.stringify(data)
+    }
+
+    static fromJson(json: SerializedProductionNode): ProductionNode {
+        const node = Object.assign(Object.create(ProductionNode.prototype), json)
+        return node as ProductionNode
     }
 
     get nodeData(): RecipeNode[] {
