@@ -100,3 +100,32 @@ export const loadCategoryData = () => {
     return categoryData as unknown as CategoryData
 }
 
+export const loadLocalStorageNodes = (): any[] | null => {
+    const saved = localStorage.getItem('flowNodes');
+    return saved ? JSON.parse(saved) : null;
+};
+
+export const saveLocalStorageNodes = (nodes: any[]): void => {
+    localStorage.setItem('flowNodes', JSON.stringify(nodes));
+};
+
+export const loadLocalStorageEdges = (): any[] | null => {
+    const saved = localStorage.getItem('flowEdges');
+    return saved ? JSON.parse(saved) : null;
+};
+
+export const saveLocalStorageEdges = (edges: any[]): void => {
+    localStorage.setItem('flowEdges', JSON.stringify(edges));
+};
+
+export const loadJsonData = {
+    loadMachineData,
+    loadProductData,
+    loadRecipeData,
+    loadCategoryData,
+    loadLocalStorageNodes,
+    saveLocalStorageNodes,
+    loadLocalStorageEdges,
+    saveLocalStorageEdges
+};
+
