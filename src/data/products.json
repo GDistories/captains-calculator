@@ -1473,7 +1473,7 @@
     },
     "crude_oil": {
         "id": "crude_oil",
-        "name": "Crude Oil",
+        "name": "原油",
         "icon": "CrudeOil.png",
         "recipes": {
             "input": [

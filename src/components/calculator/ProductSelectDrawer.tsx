@@ -36,7 +36,13 @@ export const ProductSelectDrawer = () => {
         setOpened(false)
     }
 
-    let filteredItems = filter.length < 3 ? itemsList : itemsList.filter(item=>item.name.toLowerCase().includes(filter.toLowerCase().trim()))
+    let filteredItems = filter.trim().length === 0
+        ? itemsList
+        : itemsList.filter(item =>
+            item.name.toLowerCase().includes(filter.toLowerCase().trim()) ||
+            item.name.includes(filter.trim()) // 额外保留中文直接匹配
+        )
+
 
     const renderBody = () => {
         return (

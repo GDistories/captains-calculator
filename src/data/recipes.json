@@ -4632,7 +4632,7 @@
         "inputs": [
             {
                 "id": "crude_oil",
-                "name": "Crude Oil",
+                "name": "原油",
                 "quantity": 54
             },
             {
@@ -4697,14 +4697,14 @@
         "inputs": [
             {
                 "id": "crude_oil",
-                "name": "Crude Oil",
+                "name": "原油",
                 "quantity": 4320
             }
         ],
         "outputs": [
             {
                 "id": "crude_oil",
-                "name": "Crude Oil",
+                "name": "原油",
                 "quantity": 4320
             }
         ]
@@ -4717,14 +4717,14 @@
         "inputs": [
             {
                 "id": "crude_oil",
-                "name": "Crude Oil",
+                "name": "原油",
                 "quantity": 2160
             }
         ],
         "outputs": [
             {
                 "id": "crude_oil",
-                "name": "Crude Oil",
+                "name": "原油",
                 "quantity": 2160
             }
         ]
@@ -4737,14 +4737,14 @@
         "inputs": [
             {
                 "id": "crude_oil",
-                "name": "Crude Oil",
+                "name": "原油",
                 "quantity": 360
             }
         ],
         "outputs": [
             {
                 "id": "crude_oil",
-                "name": "Crude Oil",
+                "name": "原油",
                 "quantity": 360
             }
         ]
@@ -4757,14 +4757,14 @@
         "inputs": [
             {
                 "id": "crude_oil",
-                "name": "Crude Oil",
+                "name": "原油",
                 "quantity": 180
             }
         ],
         "outputs": [
             {
                 "id": "crude_oil",
-                "name": "Crude Oil",
+                "name": "原油",
                 "quantity": 180
             }
         ]
@@ -4837,7 +4837,7 @@
         "inputs": [
             {
                 "id": "crude_oil",
-                "name": "Crude Oil",
+                "name": "原油",
                 "quantity": 54
             },
             {
@@ -15245,7 +15245,7 @@
         "outputs": [
             {
                 "id": "crude_oil",
-                "name": "Crude Oil",
+                "name": "原油",
                 "quantity": 18
             }
         ]

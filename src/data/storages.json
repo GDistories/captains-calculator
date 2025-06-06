@@ -7859,13 +7859,13 @@
                     "duration": 0,
                     "inputs": [
                         {
-                            "name": "Crude oil",
+                            "name": "原油",
                             "quantity": 4320
                         }
                     ],
                     "outputs": [
                         {
-                            "name": "Crude oil",
+                            "name": "原油",
                             "quantity": 4320
                         }
                     ]
@@ -8394,13 +8394,13 @@
                     "duration": 0,
                     "inputs": [
                         {
-                            "name": "Crude oil",
+                            "name": "原油",
                             "quantity": 2160
                         }
                     ],
                     "outputs": [
                         {
-                            "name": "Crude oil",
+                            "name": "原油",
                             "quantity": 2160
                         }
                     ]
@@ -8929,13 +8929,13 @@
                     "duration": 0,
                     "inputs": [
                         {
-                            "name": "Crude oil",
+                            "name": "原油",
                             "quantity": 360
                         }
                     ],
                     "outputs": [
                         {
-                            "name": "Crude oil",
+                            "name": "原油",
                             "quantity": 360
                         }
                     ]
@@ -9464,13 +9464,13 @@
                     "duration": 0,
                     "inputs": [
                         {
-                            "name": "Crude oil",
+                            "name": "原油",
                             "quantity": 180
                         }
                     ],
                     "outputs": [
                         {
-                            "name": "Crude oil",
+                            "name": "原油",
                             "quantity": 180
                         }
                     ]
