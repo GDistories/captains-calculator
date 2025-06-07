@@ -1,7 +1,7 @@
 {
     "buildings": {
         "id": "buildings",
-        "name": "Buildings",
+        "name": "建筑",
         "machines": [
             "maintenance_depot",
             "maintenance_depot",
@@ -55,7 +55,7 @@
     },
     "cargo_docks": {
         "id": "cargo_docks",
-        "name": "Cargo Docks",
+        "name": "货运码头",
         "machines": [
             "cargo_depot_2",
             "cargo_depot_4",
@@ -75,7 +75,7 @@
     },
     "crude_oil_refining": {
         "id": "crude_oil_refining",
-        "name": "Crude Oil Refining",
+        "name": "原油精炼",
         "machines": [
             "basic_distiller",
             "chemical_plant",
@@ -131,7 +131,7 @@
     },
     "data_center": {
         "id": "data_center",
-        "name": "Data Center",
+        "name": "数据中心",
         "machines": [
             "basic_rack"
         ],
@@ -141,7 +141,7 @@
     },
     "food_production": {
         "id": "food_production",
-        "name": "Food Production",
+        "name": "食物生产",
         "machines": [
             "baking_unit",
             "chicken_farm",
@@ -324,7 +324,7 @@
     },
     "housing_and_services": {
         "id": "housing_and_services",
-        "name": "Housing & Services",
+        "name": "住房 & 服务",
         "machines": [
             "biomass_collection",
             "consumer_electronics_module",
@@ -451,7 +451,7 @@
     },
     "power_production": {
         "id": "power_production",
-        "name": "Power Production",
+        "name": "电力生产",
         "machines": [
             "diesel_generator",
             "enrichment_plant",
@@ -479,7 +479,7 @@
     },
     "storage": {
         "id": "storage",
-        "name": "Storage",
+        "name": "存储设施",
         "machines": [
             "fluid_storage",
             "fluid_storage",
@@ -1179,7 +1179,7 @@
     },
     "waste_management": {
         "id": "waste_management",
-        "name": "Waste Management",
+        "name": "废弃物管理",
         "machines": [
             "anaerobic_digester",
             "burner_solid",
@@ -1243,7 +1243,7 @@
     },
     "water_extraction_and_processing": {
         "id": "water_extraction_and_processing",
-        "name": "Water Extraction & Processing",
+        "name": "水提取和处理",
         "machines": [
             "boiler_coal",
             "boiler_electric",

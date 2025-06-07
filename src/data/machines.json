@@ -3,7 +3,7 @@
         "id": "air_separator",
         "game_id": "AirSeparator",
         "icon": "AirSeparator.png",
-        "name": "Air Separator",
+        "name": "空气分离器",
         "category_id": "general_machines",
         "category_name": "General Machines",
         "isMine": false,
@@ -22,7 +22,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 75
             }
         ],
@@ -41,7 +41,7 @@
         "id": "anaerobic_digester",
         "game_id": "AnaerobicDigester",
         "icon": "AnaerobicDigester.png",
-        "name": "Anaerobic Digester",
+        "name": "厌氧消化器",
         "category_id": "waste_management",
         "category_name": "Waste Management",
         "isMine": false,
@@ -60,7 +60,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 38
             }
         ],
@@ -87,7 +87,7 @@
         "id": "arc_furnace",
         "game_id": "ArcFurnace",
         "icon": "ArcFurnace.png",
-        "name": "Arc Furnace",
+        "name": "电弧炉",
         "category_id": "metallurgy_and_smelting",
         "category_name": "Metallurgy & Smelting",
         "isMine": false,
@@ -106,7 +106,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 120
             }
         ],
@@ -130,7 +130,7 @@
         "id": "arc_furnace_ii",
         "game_id": "ArcFurnace2",
         "icon": "ArcFurnace2.png",
-        "name": "Arc Furnace II",
+        "name": "电弧炉 II",
         "category_id": "metallurgy_and_smelting",
         "category_name": "Metallurgy & Smelting",
         "isMine": false,
@@ -149,7 +149,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iv",
-                "name": "Construction Parts IV",
+                "name": "结构件 IV",
                 "quantity": 105
             }
         ],
@@ -212,7 +212,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 23
             }
         ],
@@ -275,7 +275,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 30
             }
         ],
@@ -398,7 +398,7 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 19
             }
         ],
@@ -452,12 +452,12 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 45
             },
             {
                 "id": "electronics_ii",
-                "name": "Electronics II",
+                "name": "电子产品 II",
                 "quantity": 23
             }
         ],
@@ -572,7 +572,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iv",
-                "name": "Construction Parts IV",
+                "name": "结构件 IV",
                 "quantity": 45
             }
         ],
@@ -622,7 +622,7 @@
         "id": "baking_unit",
         "game_id": "BakingUnit",
         "icon": "BakingUnit.png",
-        "name": "Baking Unit",
+        "name": "烘焙单元",
         "category_id": "food_production",
         "category_name": "Food Production",
         "isMine": false,
@@ -641,7 +641,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 30
             }
         ],
@@ -668,7 +668,7 @@
         "id": "basic_distiller",
         "game_id": "BasicDieselDistiller",
         "icon": "BasicDieselDistiller.png",
-        "name": "Basic Distiller",
+        "name": "初级蒸馏塔",
         "category_id": "crude_oil_refining",
         "category_name": "Crude Oil Refining",
         "isMine": false,
@@ -687,7 +687,7 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 30
             }
         ],
@@ -714,7 +714,7 @@
         "id": "basic_rack",
         "game_id": "BasicServerRack",
         "icon": "BasicServerRack.png",
-        "name": "Basic Rack",
+        "name": "基础机架",
         "category_id": "data_center",
         "category_name": "Data Center",
         "isMine": false,
@@ -733,7 +733,7 @@
         "build_costs": [
             {
                 "id": "server",
-                "name": "Server",
+                "name": "服务器",
                 "quantity": 20
             }
         ],
@@ -753,7 +753,7 @@
         "id": "biomass_collection",
         "game_id": "SettlementBiomassModule",
         "icon": "SettlementBiomassModule.png",
-        "name": "Biomass Collection",
+        "name": "生物质收集站",
         "category_id": "housing_and_services",
         "category_name": "Housing & Services",
         "isMine": false,
@@ -772,7 +772,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 45
             }
         ],
@@ -786,7 +786,7 @@
         "id": "blast_furnace",
         "game_id": "SmeltingFurnaceT1",
         "icon": "SmeltingFurnaceT1.png",
-        "name": "Blast Furnace",
+        "name": "高炉",
         "category_id": "metallurgy_and_smelting",
         "category_name": "Metallurgy & Smelting",
         "isMine": false,
@@ -805,7 +805,7 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 45
             }
         ],
@@ -840,7 +840,7 @@
         "id": "blast_furnace_ii",
         "game_id": "SmeltingFurnaceT2",
         "icon": "SmeltingFurnaceT2.png",
-        "name": "Blast Furnace II",
+        "name": "高炉 II",
         "category_id": "metallurgy_and_smelting",
         "category_name": "Metallurgy & Smelting",
         "isMine": false,
@@ -859,7 +859,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 135
             }
         ],
@@ -915,7 +915,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 30
             }
         ],
@@ -960,12 +960,12 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 45
             },
             {
                 "id": "electronics_ii",
-                "name": "Electronics II",
+                "name": "电子产品 II",
                 "quantity": 30
             }
         ],
@@ -985,7 +985,7 @@
         "id": "boiler_gas",
         "game_id": "BoilerGas",
         "icon": "BoilerGas.png",
-        "name": "Boiler (Gas)",
+        "name": "锅炉 （燃气）",
         "category_id": "water_extraction_and_processing",
         "category_name": "Water Extraction & Processing",
         "isMine": false,
@@ -1004,7 +1004,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 38
             }
         ],
@@ -1040,7 +1040,7 @@
         "id": "burner_solid",
         "game_id": "Burner",
         "icon": "Burner.png",
-        "name": "Burner (Solid)",
+        "name": "焚化炉（固体）",
         "category_id": "waste_management",
         "category_name": "Waste Management",
         "isMine": false,
@@ -1059,7 +1059,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 11
             }
         ],
@@ -1091,7 +1091,7 @@
         "id": "cargo_depot_2",
         "game_id": "CargoDepotT1",
         "icon": "CargoDepotT1.png",
-        "name": "Cargo Depot (2)",
+        "name": "货运港（2）",
         "category_id": "cargo_docks",
         "category_name": "Cargo Docks",
         "isMine": false,
@@ -1110,12 +1110,12 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 30
             },
             {
                 "id": "concrete_slab",
-                "name": "Concrete slab",
+                "name": "混凝土楼板",
                 "quantity": 75
             }
         ],
@@ -1129,7 +1129,7 @@
         "id": "cargo_depot_4",
         "game_id": "CargoDepotT2",
         "icon": "CargoDepotT2.png",
-        "name": "Cargo Depot (4)",
+        "name": "货运港（4）",
         "category_id": "cargo_docks",
         "category_name": "Cargo Docks",
         "isMine": false,
@@ -1148,12 +1148,12 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 90
             },
             {
                 "id": "concrete_slab",
-                "name": "Concrete slab",
+                "name": "混凝土楼板",
                 "quantity": 180
             }
         ],
@@ -1167,7 +1167,7 @@
         "id": "cargo_depot_6",
         "game_id": "CargoDepotT3",
         "icon": "CargoDepotT3.png",
-        "name": "Cargo Depot (6)",
+        "name": "货运港 （6）",
         "category_id": "cargo_docks",
         "category_name": "Cargo Docks",
         "isMine": false,
@@ -1186,12 +1186,12 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 150
             },
             {
                 "id": "concrete_slab",
-                "name": "Concrete slab",
+                "name": "混凝土楼板",
                 "quantity": 300
             }
         ],
@@ -1205,7 +1205,7 @@
         "id": "cargo_depot_8",
         "game_id": "CargoDepotT4",
         "icon": "CargoDepotT4.png",
-        "name": "Cargo Depot (8)",
+        "name": "货运港（8）",
         "category_id": "cargo_docks",
         "category_name": "Cargo Docks",
         "isMine": false,
@@ -1224,12 +1224,12 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 225
             },
             {
                 "id": "concrete_slab",
-                "name": "Concrete slab",
+                "name": "混凝土楼板",
                 "quantity": 450
             }
         ],
@@ -1243,7 +1243,7 @@
         "id": "chemical_plant",
         "game_id": "ChemicalPlant",
         "icon": "ChemicalPlant.png",
-        "name": "Chemical Plant",
+        "name": "化工厂",
         "category_id": "crude_oil_refining",
         "category_name": "Crude Oil Refining",
         "isMine": false,
@@ -1262,7 +1262,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 30
             }
         ],
@@ -1297,7 +1297,7 @@
         "id": "chemical_plant_ii",
         "game_id": "ChemicalPlant2",
         "icon": "ChemicalPlant2.png",
-        "name": "Chemical Plant II",
+        "name": "化工厂 II",
         "category_id": "crude_oil_refining",
         "category_name": "Crude Oil Refining",
         "isMine": false,
@@ -1316,7 +1316,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 90
             }
         ],
@@ -1368,7 +1368,7 @@
         "id": "chicken_farm",
         "game_id": "ChickenFarm",
         "icon": "ChickenFarm.png",
-        "name": "Chicken Farm",
+        "name": "养鸡场",
         "category_id": "food_production",
         "category_name": "Food Production",
         "isMine": false,
@@ -1387,7 +1387,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 38
             }
         ],
@@ -1401,7 +1401,7 @@
         "id": "coal_maker",
         "game_id": "CharcoalMaker",
         "icon": "CharcoalMaker.png",
-        "name": "Coal Maker",
+        "name": "木炭炉",
         "category_id": "metallurgy_and_smelting",
         "category_name": "Metallurgy & Smelting",
         "isMine": false,
@@ -1420,7 +1420,7 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 15
             }
         ],
@@ -1441,7 +1441,7 @@
         "id": "coal_mine",
         "game_id": "MineTower",
         "icon": "MineTower.png",
-        "name": "Coal Mine",
+        "name": "煤矿",
         "category_id": "mines",
         "category_name": "Mines",
         "isMine": true,
@@ -1460,7 +1460,7 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 20
             }
         ],
@@ -1478,7 +1478,7 @@
         "id": "concrete_mixer",
         "game_id": "ConcreteMixer",
         "icon": "ConcreteMixer.png",
-        "name": "Concrete Mixer",
+        "name": "混凝土搅拌机",
         "category_id": "general_machines",
         "category_name": "General Machines",
         "isMine": false,
@@ -1497,12 +1497,12 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 30
             },
             {
                 "id": "electronics",
-                "name": "Electronics",
+                "name": "电子产品",
                 "quantity": 8
             }
         ],
@@ -1529,7 +1529,7 @@
         "id": "concrete_mixer_ii",
         "game_id": "ConcreteMixerT2",
         "icon": "ConcreteMixerT2.png",
-        "name": "Concrete Mixer II",
+        "name": "混凝土搅拌机 II",
         "category_id": "general_machines",
         "category_name": "General Machines",
         "isMine": false,
@@ -1548,7 +1548,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 30
             }
         ],
@@ -1573,7 +1573,7 @@
         "id": "concrete_mixer_iii",
         "game_id": "ConcreteMixerT3",
         "icon": "ConcreteMixerT3.png",
-        "name": "Concrete Mixer III",
+        "name": "混凝土搅拌机 III",
         "category_id": "general_machines",
         "category_name": "General Machines",
         "isMine": false,
@@ -1592,7 +1592,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iv",
-                "name": "Construction Parts IV",
+                "name": "结构件 IV",
                 "quantity": 30
             }
         ],
@@ -1617,7 +1617,7 @@
         "id": "consumer_electronics_module",
         "game_id": "SettlementConsumerElectronicsModule",
         "icon": "SettlementConsumerElectronicsModule.png",
-        "name": "Consumer Electronics Module",
+        "name": "消费电子模块",
         "category_id": "housing_and_services",
         "category_name": "Housing & Services",
         "isMine": false,
@@ -1636,12 +1636,12 @@
         "build_costs": [
             {
                 "id": "construction_parts_iv",
-                "name": "Construction Parts IV",
+                "name": "结构件 IV",
                 "quantity": 75
             },
             {
                 "id": "glass",
-                "name": "Glass",
+                "name": "玻璃",
                 "quantity": 60
             }
         ],
@@ -1655,7 +1655,7 @@
         "id": "cooled_caster",
         "game_id": "CasterCooled",
         "icon": "CasterCooled.png",
-        "name": "Cooled Caster",
+        "name": "水冷铸造机",
         "category_id": "metallurgy_and_smelting",
         "category_name": "Metallurgy & Smelting",
         "isMine": false,
@@ -1674,7 +1674,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 23
             }
         ],
@@ -1695,7 +1695,7 @@
         "id": "cooled_caster_ii",
         "game_id": "CasterCooledT2",
         "icon": "CasterCooledT2.png",
-        "name": "Cooled Caster II",
+        "name": "水冷铸造机 II",
         "category_id": "metallurgy_and_smelting",
         "category_name": "Metallurgy & Smelting",
         "isMine": false,
@@ -1714,7 +1714,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 30
             }
         ],
@@ -1735,7 +1735,7 @@
         "id": "cooling_tower",
         "game_id": "CoolingTowerT1",
         "icon": "CoolingTowerT1.png",
-        "name": "Cooling Tower",
+        "name": "冷却塔",
         "category_id": "water_extraction_and_processing",
         "category_name": "Water Extraction & Processing",
         "isMine": false,
@@ -1754,12 +1754,12 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 23
             },
             {
                 "id": "concrete_slab",
-                "name": "Concrete slab",
+                "name": "混凝土楼板",
                 "quantity": 30
             }
         ],
@@ -1783,7 +1783,7 @@
         "id": "cooling_tower_large",
         "game_id": "CoolingTowerT2",
         "icon": "CoolingTowerT2.png",
-        "name": "Cooling Tower (Large)",
+        "name": "冷却塔 （大）",
         "category_id": "water_extraction_and_processing",
         "category_name": "Water Extraction & Processing",
         "isMine": false,
@@ -1802,12 +1802,12 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 60
             },
             {
                 "id": "concrete_slab",
-                "name": "Concrete slab",
+                "name": "混凝土楼板",
                 "quantity": 150
             }
         ],
@@ -1831,7 +1831,7 @@
         "id": "copper_electrolysis",
         "game_id": "CopperElectrolysis",
         "icon": "CopperElectrolysis.png",
-        "name": "Copper Electrolysis",
+        "name": "铜电解槽",
         "category_id": "metallurgy_and_smelting",
         "category_name": "Metallurgy & Smelting",
         "isMine": false,
@@ -1850,7 +1850,7 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 23
             }
         ],
@@ -1892,7 +1892,7 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 20
             }
         ],
@@ -1910,7 +1910,7 @@
         "id": "cracking_unit",
         "game_id": "HydroCrackerT1",
         "icon": "HydroCrackerT1.png",
-        "name": "Cracking Unit",
+        "name": "裂解装置",
         "category_id": "crude_oil_refining",
         "category_name": "Crude Oil Refining",
         "isMine": false,
@@ -1929,7 +1929,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 75
             }
         ],
@@ -1964,7 +1964,7 @@
         "id": "crusher",
         "game_id": "Crusher",
         "icon": "Crusher.png",
-        "name": "Crusher",
+        "name": "粉碎机",
         "category_id": "metallurgy_and_smelting",
         "category_name": "Metallurgy & Smelting",
         "isMine": false,
@@ -1983,7 +1983,7 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 23
             }
         ],
@@ -2024,7 +2024,7 @@
         "id": "data_center",
         "game_id": "DataCenter",
         "icon": "DataCenter.png",
-        "name": "Data Center",
+        "name": "数据中心",
         "category_id": "general_machines",
         "category_name": "General Machines",
         "isMine": false,
@@ -2043,17 +2043,17 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 75
             },
             {
                 "id": "electronics_ii",
-                "name": "Electronics II",
+                "name": "电子产品 II",
                 "quantity": 90
             },
             {
                 "id": "electronics_iii",
-                "name": "Electronics III",
+                "name": "电子产品 III",
                 "quantity": 15
             }
         ],
@@ -2067,7 +2067,7 @@
         "id": "diesel_generator",
         "game_id": "DieselGenerator",
         "icon": "DieselGenerator.png",
-        "name": "Diesel Generator",
+        "name": "柴油发电机",
         "category_id": "power_production",
         "category_name": "Power Production",
         "isMine": false,
@@ -2086,12 +2086,12 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 15
             },
             {
                 "id": "electronics",
-                "name": "Electronics",
+                "name": "电子产品",
                 "quantity": 15
             }
         ],
@@ -2131,7 +2131,7 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 20
             }
         ],
@@ -2149,7 +2149,7 @@
         "id": "distillation_stage_i",
         "game_id": "DistillationTowerT1",
         "icon": "DistillationTowerT1.png",
-        "name": "Distillation (Stage I)",
+        "name": "蒸馏（阶段 I）",
         "category_id": "crude_oil_refining",
         "category_name": "Crude Oil Refining",
         "isMine": false,
@@ -2168,7 +2168,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 38
             }
         ],
@@ -2191,7 +2191,7 @@
         "id": "distillation_stage_ii",
         "game_id": "DistillationTowerT2",
         "icon": "DistillationTowerT2.png",
-        "name": "Distillation (Stage II)",
+        "name": "蒸馏（阶段 II）",
         "category_id": "crude_oil_refining",
         "category_name": "Crude Oil Refining",
         "isMine": false,
@@ -2210,7 +2210,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 53
             }
         ],
@@ -2232,7 +2232,7 @@
         "id": "distillation_stage_iii",
         "game_id": "DistillationTowerT3",
         "icon": "DistillationTowerT3.png",
-        "name": "Distillation (Stage III)",
+        "name": "蒸馏 （阶段 III）",
         "category_id": "crude_oil_refining",
         "category_name": "Crude Oil Refining",
         "isMine": false,
@@ -2251,7 +2251,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 53
             }
         ],
@@ -2273,7 +2273,7 @@
         "id": "electrolyzer",
         "game_id": "Electrolyzer",
         "icon": "Electrolyzer.png",
-        "name": "Electrolyzer",
+        "name": "电解槽",
         "category_id": "general_machines",
         "category_name": "General Machines",
         "isMine": false,
@@ -2292,7 +2292,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 30
             }
         ],
@@ -2319,7 +2319,7 @@
         "id": "enrichment_plant",
         "game_id": "UraniumEnrichmentPlant",
         "icon": "UraniumEnrichmentPlant.png",
-        "name": "Enrichment Plant",
+        "name": "铀浓缩工厂",
         "category_id": "power_production",
         "category_name": "Power Production",
         "isMine": false,
@@ -2338,12 +2338,12 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 113
             },
             {
                 "id": "electronics_ii",
-                "name": "Electronics II",
+                "name": "电子产品 II",
                 "quantity": 30
             }
         ],
@@ -2364,7 +2364,7 @@
         "id": "evaporation_pond",
         "game_id": "EvaporationPond",
         "icon": "EvaporationPond.png",
-        "name": "Evaporation Pond",
+        "name": "蒸发池",
         "category_id": "water_extraction_and_processing",
         "category_name": "Water Extraction & Processing",
         "isMine": false,
@@ -2383,7 +2383,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 23
             }
         ],
@@ -2407,7 +2407,7 @@
         "id": "evaporation_pond_heated",
         "game_id": "EvaporationPondHeated",
         "icon": "EvaporationPondHeated.png",
-        "name": "Evaporation Pond (Heated)",
+        "name": "蒸发池（加热）",
         "category_id": "water_extraction_and_processing",
         "category_name": "Water Extraction & Processing",
         "isMine": false,
@@ -2426,7 +2426,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 38
             }
         ],
@@ -2450,7 +2450,7 @@
         "id": "exhaust_scrubber",
         "game_id": "ExhaustScrubber",
         "icon": "ExhaustScrubber.png",
-        "name": "Exhaust Scrubber",
+        "name": "尾气洗涤器",
         "category_id": "waste_management",
         "category_name": "Waste Management",
         "isMine": false,
@@ -2469,7 +2469,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 60
             }
         ],
@@ -2493,7 +2493,7 @@
         "id": "farm",
         "game_id": "FarmT1",
         "icon": "FarmT1.png",
-        "name": "Farm",
+        "name": "农场",
         "category_id": "food_production",
         "category_name": "Food Production",
         "isMine": false,
@@ -2512,7 +2512,7 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 23
             }
         ],
@@ -2526,7 +2526,7 @@
         "id": "fermentation_tank",
         "game_id": "FermentationTank",
         "icon": "FermentationTank.png",
-        "name": "Fermentation Tank",
+        "name": "发酵罐",
         "category_id": "general_machines",
         "category_name": "General Machines",
         "isMine": false,
@@ -2545,7 +2545,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 30
             }
         ],
@@ -2572,7 +2572,7 @@
         "id": "flare",
         "game_id": "Flare",
         "icon": "Flare.png",
-        "name": "Flare",
+        "name": "火炬",
         "category_id": "waste_management",
         "category_name": "Waste Management",
         "isMine": false,
@@ -2591,7 +2591,7 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 8
             }
         ],
@@ -2625,7 +2625,7 @@
         "id": "fluid_module_l",
         "game_id": "CargoDepotModuleFluidT3",
         "icon": "CargoDepotModuleFluidT3.png",
-        "name": "Fluid Module (L)",
+        "name": "流体模块（大）",
         "category_id": "cargo_docks",
         "category_name": "Cargo Docks",
         "isMine": false,
@@ -2644,7 +2644,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 90
             }
         ],
@@ -2658,7 +2658,7 @@
         "id": "fluid_module_m",
         "game_id": "CargoDepotModuleFluidT2",
         "icon": "CargoDepotModuleFluidT2.png",
-        "name": "Fluid Module (M)",
+        "name": "流体模块 (中)",
         "category_id": "cargo_docks",
         "category_name": "Cargo Docks",
         "isMine": false,
@@ -2677,7 +2677,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 45
             }
         ],
@@ -2691,7 +2691,7 @@
         "id": "fluid_module_s",
         "game_id": "CargoDepotModuleFluidT1",
         "icon": "CargoDepotModuleFluidT1.png",
-        "name": "Fluid Module (S)",
+        "name": "流体模块（小）",
         "category_id": "cargo_docks",
         "category_name": "Cargo Docks",
         "isMine": false,
@@ -2710,7 +2710,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 30
             }
         ],
@@ -2724,7 +2724,7 @@
         "id": "fluid_storage",
         "game_id": "StorageFluid",
         "icon": "StorageFluid.png",
-        "name": "Fluid Storage",
+        "name": "流体储罐",
         "category_id": "storage",
         "category_name": "Storage",
         "isMine": false,
@@ -2743,7 +2743,7 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 30
             }
         ],
@@ -2856,7 +2856,7 @@
         "id": "fluid_storage_ii",
         "game_id": "StorageFluidT2",
         "icon": "StorageFluidT2.png",
-        "name": "Fluid Storage II",
+        "name": "流体储罐 II",
         "category_id": "storage",
         "category_name": "Storage",
         "isMine": false,
@@ -2875,7 +2875,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 30
             }
         ],
@@ -2988,7 +2988,7 @@
         "id": "fluid_storage_iii",
         "game_id": "StorageFluidT3",
         "icon": "StorageFluidT3.png",
-        "name": "Fluid Storage III",
+        "name": "流体储罐 III",
         "category_id": "storage",
         "category_name": "Storage",
         "isMine": false,
@@ -3007,7 +3007,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 90
             }
         ],
@@ -3120,7 +3120,7 @@
         "id": "fluid_storage_iv",
         "game_id": "StorageFluidT4",
         "icon": "StorageFluidT4.png",
-        "name": "Fluid Storage IV",
+        "name": "流体储罐 IV",
         "category_id": "storage",
         "category_name": "Storage",
         "isMine": false,
@@ -3139,7 +3139,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 180
             }
         ],
@@ -3252,7 +3252,7 @@
         "id": "food_market",
         "game_id": "SettlementFoodModule",
         "icon": "SettlementFoodModule.png",
-        "name": "Food Market",
+        "name": "食品超市",
         "category_id": "housing_and_services",
         "category_name": "Housing & Services",
         "isMine": false,
@@ -3271,7 +3271,7 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 19
             }
         ],
@@ -3285,7 +3285,7 @@
         "id": "food_market_ii",
         "game_id": "SettlementFoodModuleT2",
         "icon": "SettlementFoodModuleT2.png",
-        "name": "Food Market II",
+        "name": "食品市场 II",
         "category_id": "housing_and_services",
         "category_name": "Housing & Services",
         "isMine": false,
@@ -3304,7 +3304,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 30
             }
         ],
@@ -3318,7 +3318,7 @@
         "id": "food_processor",
         "game_id": "FoodProcessor",
         "icon": "FoodProcessor.png",
-        "name": "Food Processor",
+        "name": "食品加工机",
         "category_id": "food_production",
         "category_name": "Food Production",
         "isMine": false,
@@ -3337,7 +3337,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 23
             }
         ],
@@ -3381,7 +3381,7 @@
         "id": "fuel_station",
         "game_id": "FuelStationT1",
         "icon": "FuelStationT1.png",
-        "name": "Fuel Station",
+        "name": "加油站",
         "category_id": "buildings_for_vehicles",
         "category_name": "Buildings (For Vehicles)",
         "isMine": false,
@@ -3400,7 +3400,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 15
             }
         ],
@@ -3414,7 +3414,7 @@
         "id": "fuel_station_ii",
         "game_id": "FuelStationT2",
         "icon": "FuelStationT2.png",
-        "name": "Fuel Station II",
+        "name": "加油站 II",
         "category_id": "buildings_for_vehicles",
         "category_name": "Buildings (For Vehicles)",
         "isMine": false,
@@ -3433,7 +3433,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 30
             }
         ],
@@ -3447,7 +3447,7 @@
         "id": "fuel_station_iii",
         "game_id": "FuelStationT3",
         "icon": "FuelStationT3.png",
-        "name": "Fuel Station III",
+        "name": "加油站 III",
         "category_id": "buildings_for_vehicles",
         "category_name": "Buildings (For Vehicles)",
         "isMine": false,
@@ -3466,7 +3466,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 53
             }
         ],
@@ -3480,7 +3480,7 @@
         "id": "gas_injection_pump",
         "game_id": "GasInjectionPump",
         "icon": "GasInjectionPump.png",
-        "name": "Gas Injection Pump",
+        "name": "气体喷射泵",
         "category_id": "waste_management",
         "category_name": "Waste Management",
         "isMine": false,
@@ -3499,7 +3499,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 38
             }
         ],
@@ -3518,7 +3518,7 @@
         "id": "glass_maker",
         "game_id": "GlassMakerT1",
         "icon": "GlassMakerT1.png",
-        "name": "Glass Maker",
+        "name": "玻璃制造机",
         "category_id": "metallurgy_and_smelting",
         "category_name": "Metallurgy & Smelting",
         "isMine": false,
@@ -3537,7 +3537,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 38
             }
         ],
@@ -3558,7 +3558,7 @@
         "id": "glass_maker_ii",
         "game_id": "GlassMakerT2",
         "icon": "GlassMakerT2.png",
-        "name": "Glass Maker II",
+        "name": "玻璃制造机 II",
         "category_id": "metallurgy_and_smelting",
         "category_name": "Metallurgy & Smelting",
         "isMine": false,
@@ -3577,7 +3577,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 90
             }
         ],
@@ -3597,7 +3597,7 @@
         "id": "gold_furnace",
         "game_id": "GoldFurnace",
         "icon": "GoldFurnace.png",
-        "name": "Gold Furnace",
+        "name": "金炉",
         "category_id": "metallurgy_and_smelting",
         "category_name": "Metallurgy & Smelting",
         "isMine": false,
@@ -3616,7 +3616,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 53
             }
         ],
@@ -3659,7 +3659,7 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 20
             }
         ],
@@ -3696,7 +3696,7 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 20
             }
         ],
@@ -3714,7 +3714,7 @@
         "id": "greenhouse",
         "game_id": "FarmT3",
         "icon": "FarmT3.png",
-        "name": "Greenhouse",
+        "name": "温室",
         "category_id": "food_production",
         "category_name": "Food Production",
         "isMine": false,
@@ -3733,12 +3733,12 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 75
             },
             {
                 "id": "glass",
-                "name": "Glass",
+                "name": "玻璃",
                 "quantity": 240
             }
         ],
@@ -3752,7 +3752,7 @@
         "id": "greenhouse_ii",
         "game_id": "FarmT4",
         "icon": "FarmT4.png",
-        "name": "Greenhouse II",
+        "name": "温室 II",
         "category_id": "food_production",
         "category_name": "Food Production",
         "isMine": false,
@@ -3771,12 +3771,12 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 150
             },
             {
                 "id": "glass",
-                "name": "Glass",
+                "name": "玻璃",
                 "quantity": 480
             }
         ],
@@ -3790,7 +3790,7 @@
         "id": "groundwater_pump",
         "game_id": "LandWaterPump",
         "icon": "LandWaterPump.png",
-        "name": "Groundwater Pump",
+        "name": "地下水泵",
         "category_id": "water_extraction_and_processing",
         "category_name": "Water Extraction & Processing",
         "isMine": false,
@@ -3809,7 +3809,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 30
             }
         ],
@@ -3827,7 +3827,7 @@
         "id": "high-pressure_turbine",
         "game_id": "TurbineHighPress",
         "icon": "TurbineHighPress.png",
-        "name": "High-pressure Turbine",
+        "name": "高压涡轮",
         "category_id": "power_production",
         "category_name": "Power Production",
         "isMine": false,
@@ -3846,7 +3846,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 38
             }
         ],
@@ -3867,7 +3867,7 @@
         "id": "high-pressure_turbine_ii",
         "game_id": "TurbineHighPressT2",
         "icon": "TurbineHighPressT2.png",
-        "name": "High-pressure Turbine II",
+        "name": "高压涡轮 II",
         "category_id": "power_production",
         "category_name": "Power Production",
         "isMine": false,
@@ -3886,7 +3886,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 60
             }
         ],
@@ -3907,7 +3907,7 @@
         "id": "household_appliances_module",
         "game_id": "SettlementHouseholdAppliancesModule",
         "icon": "SettlementHouseholdAppliancesModule.png",
-        "name": "Household Appliances Module",
+        "name": "家电模块",
         "category_id": "housing_and_services",
         "category_name": "Housing & Services",
         "isMine": false,
@@ -3926,17 +3926,17 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 60
             },
             {
                 "id": "glass",
-                "name": "Glass",
+                "name": "玻璃",
                 "quantity": 60
             },
             {
                 "id": "electronics_ii",
-                "name": "Electronics II",
+                "name": "电子产品 II",
                 "quantity": 15
             }
         ],
@@ -3950,7 +3950,7 @@
         "id": "household_goods_module",
         "game_id": "SettlementHouseholdGoodsModule",
         "icon": "SettlementHouseholdGoodsModule.png",
-        "name": "Household Goods Module",
+        "name": "家居用品模块",
         "category_id": "housing_and_services",
         "category_name": "Housing & Services",
         "isMine": false,
@@ -3969,12 +3969,12 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 45
             },
             {
                 "id": "glass",
-                "name": "Glass",
+                "name": "玻璃",
                 "quantity": 30
             }
         ],
@@ -3988,7 +3988,7 @@
         "id": "housing",
         "game_id": "Housing",
         "icon": "Housing.png",
-        "name": "Housing",
+        "name": "住房",
         "category_id": "housing_and_services",
         "category_name": "Housing & Services",
         "isMine": false,
@@ -4007,7 +4007,7 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 60
             }
         ],
@@ -4021,7 +4021,7 @@
         "id": "housing_ii",
         "game_id": "HousingT2",
         "icon": "HousingT2.png",
-        "name": "Housing II",
+        "name": "住房 II",
         "category_id": "housing_and_services",
         "category_name": "Housing & Services",
         "isMine": false,
@@ -4040,7 +4040,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 105
             }
         ],
@@ -4054,7 +4054,7 @@
         "id": "housing_iii",
         "game_id": "HousingT3",
         "icon": "HousingT3.png",
-        "name": "Housing III",
+        "name": "住房 III",
         "category_id": "housing_and_services",
         "category_name": "Housing & Services",
         "isMine": false,
@@ -4073,12 +4073,12 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 150
             },
             {
                 "id": "glass",
-                "name": "Glass",
+                "name": "玻璃",
                 "quantity": 180
             }
         ],
@@ -4092,7 +4092,7 @@
         "id": "hydrogen_reformer",
         "game_id": "HydrogenReformer",
         "icon": "HydrogenReformer.png",
-        "name": "Hydrogen Reformer",
+        "name": "氢重整器",
         "category_id": "crude_oil_refining",
         "category_name": "Crude Oil Refining",
         "isMine": false,
@@ -4111,7 +4111,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 60
             }
         ],
@@ -4152,7 +4152,7 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 20
             }
         ],
@@ -4170,7 +4170,7 @@
         "id": "irrigated_farm",
         "game_id": "FarmT2",
         "icon": "FarmT2.png",
-        "name": "Irrigated Farm",
+        "name": "灌溉农场",
         "category_id": "food_production",
         "category_name": "Food Production",
         "isMine": false,
@@ -4189,7 +4189,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 45
             }
         ],
@@ -4222,7 +4222,7 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 20
             }
         ],
@@ -4240,7 +4240,7 @@
         "id": "liquid_dump",
         "game_id": "WasteDump",
         "icon": "WasteDump.png",
-        "name": "Liquid Dump",
+        "name": "液体倾倒",
         "category_id": "waste_management",
         "category_name": "Waste Management",
         "isMine": false,
@@ -4259,7 +4259,7 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 15
             }
         ],
@@ -4291,7 +4291,7 @@
         "id": "loose_module_l",
         "game_id": "CargoDepotModuleLooseT3",
         "icon": "CargoDepotModuleLooseT3.png",
-        "name": "Loose Module (L)",
+        "name": "散装货模块（大）",
         "category_id": "cargo_docks",
         "category_name": "Cargo Docks",
         "isMine": false,
@@ -4310,7 +4310,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 90
             }
         ],
@@ -4324,7 +4324,7 @@
         "id": "loose_module_m",
         "game_id": "CargoDepotModuleLooseT2",
         "icon": "CargoDepotModuleLooseT2.png",
-        "name": "Loose Module (M)",
+        "name": "散装货模块（中）",
         "category_id": "cargo_docks",
         "category_name": "Cargo Docks",
         "isMine": false,
@@ -4343,7 +4343,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 45
             }
         ],
@@ -4357,7 +4357,7 @@
         "id": "loose_module_s",
         "game_id": "CargoDepotModuleLooseT1",
         "icon": "CargoDepotModuleLooseT1.png",
-        "name": "Loose Module (S)",
+        "name": "散装货模块（小）",
         "category_id": "cargo_docks",
         "category_name": "Cargo Docks",
         "isMine": false,
@@ -4376,7 +4376,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 30
             }
         ],
@@ -4390,7 +4390,7 @@
         "id": "loose_storage",
         "game_id": "StorageLoose",
         "icon": "StorageLoose.png",
-        "name": "Loose Storage",
+        "name": "散装物存储",
         "category_id": "storage",
         "category_name": "Storage",
         "isMine": false,
@@ -4409,7 +4409,7 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 30
             }
         ],
@@ -4555,7 +4555,7 @@
         "id": "loose_storage_ii",
         "game_id": "StorageLooseT2",
         "icon": "StorageLooseT2.png",
-        "name": "Loose Storage II",
+        "name": "散装物存储 II",
         "category_id": "storage",
         "category_name": "Storage",
         "isMine": false,
@@ -4574,7 +4574,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 30
             }
         ],
@@ -4720,7 +4720,7 @@
         "id": "loose_storage_iii",
         "game_id": "StorageLooseT3",
         "icon": "StorageLooseT3.png",
-        "name": "Loose Storage III",
+        "name": "散装物存储 III",
         "category_id": "storage",
         "category_name": "Storage",
         "isMine": false,
@@ -4739,7 +4739,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 90
             }
         ],
@@ -4885,7 +4885,7 @@
         "id": "loose_storage_iv",
         "game_id": "StorageLooseT4",
         "icon": "StorageLooseT4.png",
-        "name": "Loose Storage IV",
+        "name": "散装物存储 IV",
         "category_id": "storage",
         "category_name": "Storage",
         "isMine": false,
@@ -4904,7 +4904,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 180
             }
         ],
@@ -5050,7 +5050,7 @@
         "id": "low-pressure_turbine",
         "game_id": "TurbineLowPress",
         "icon": "TurbineLowPress.png",
-        "name": "Low-pressure Turbine",
+        "name": "低压涡轮",
         "category_id": "power_production",
         "category_name": "Power Production",
         "isMine": false,
@@ -5069,7 +5069,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 45
             }
         ],
@@ -5090,7 +5090,7 @@
         "id": "low-pressure_turbine_ii",
         "game_id": "TurbineLowPressT2",
         "icon": "TurbineLowPressT2.png",
-        "name": "Low-pressure Turbine II",
+        "name": "低压涡轮 II",
         "category_id": "power_production",
         "category_name": "Power Production",
         "isMine": false,
@@ -5109,7 +5109,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 105
             }
         ],
@@ -5130,7 +5130,7 @@
         "id": "maintenance_depot",
         "game_id": "MaintenanceDepotT1",
         "icon": "MaintenanceDepotT1.png",
-        "name": "Maintenance Depot",
+        "name": "维修站",
         "category_id": "buildings",
         "category_name": "Buildings",
         "isMine": false,
@@ -5149,7 +5149,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 38
             }
         ],
@@ -5172,7 +5172,7 @@
         "id": "maintenance_depot_basic",
         "game_id": "MaintenanceDepotT0",
         "icon": "MaintenanceDepotT0.png",
-        "name": "Maintenance Depot (Basic)",
+        "name": "维修站 （基础）",
         "category_id": "buildings",
         "category_name": "Buildings",
         "isMine": false,
@@ -5191,7 +5191,7 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 30
             }
         ],
@@ -5212,7 +5212,7 @@
         "id": "maintenance_ii_depot",
         "game_id": "MaintenanceDepotT2",
         "icon": "MaintenanceDepotT2.png",
-        "name": "Maintenance II Depot",
+        "name": "维修站 II",
         "category_id": "buildings",
         "category_name": "Buildings",
         "isMine": false,
@@ -5231,12 +5231,12 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 38
             },
             {
                 "id": "electronics_ii",
-                "name": "Electronics II",
+                "name": "电子产品 II",
                 "quantity": 15
             }
         ],
@@ -5259,7 +5259,7 @@
         "id": "maintenance_iii_depot",
         "game_id": "MaintenanceDepotT3",
         "icon": "MaintenanceDepotT3.png",
-        "name": "Maintenance III Depot",
+        "name": "维修 III 仓库",
         "category_id": "buildings",
         "category_name": "Buildings",
         "isMine": false,
@@ -5278,12 +5278,12 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 38
             },
             {
                 "id": "electronics_iii",
-                "name": "Electronics III",
+                "name": "电子产品 III",
                 "quantity": 15
             }
         ],
@@ -5306,7 +5306,7 @@
         "id": "metal_caster",
         "game_id": "Caster",
         "icon": "Caster.png",
-        "name": "Metal Caster",
+        "name": "金属铸造机",
         "category_id": "metallurgy_and_smelting",
         "category_name": "Metallurgy & Smelting",
         "isMine": false,
@@ -5325,7 +5325,7 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 23
             }
         ],
@@ -5348,7 +5348,7 @@
         "id": "metal_caster_ii",
         "game_id": "CasterT2",
         "icon": "CasterT2.png",
-        "name": "Metal Caster II",
+        "name": "金属铸造机 II",
         "category_id": "metallurgy_and_smelting",
         "category_name": "Metallurgy & Smelting",
         "isMine": false,
@@ -5367,12 +5367,12 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 30
             },
             {
                 "id": "steel",
-                "name": "Steel",
+                "name": "钢",
                 "quantity": 15
             }
         ],
@@ -5395,7 +5395,7 @@
         "id": "microchip_machine",
         "game_id": "MicrochipMachine",
         "icon": "MicrochipMachine.png",
-        "name": "Microchip Machine",
+        "name": "微芯片机",
         "category_id": "general_machines",
         "category_name": "General Machines",
         "isMine": false,
@@ -5414,7 +5414,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iv",
-                "name": "Construction Parts IV",
+                "name": "结构件 IV",
                 "quantity": 60
             }
         ],
@@ -5472,7 +5472,7 @@
         "id": "microchip_machine_ii",
         "game_id": "MicrochipMachineT2",
         "icon": "MicrochipMachineT2.png",
-        "name": "Microchip Machine II",
+        "name": "微芯片机 II",
         "category_id": "general_machines",
         "category_name": "General Machines",
         "isMine": false,
@@ -5491,7 +5491,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iv",
-                "name": "Construction Parts IV",
+                "name": "结构件 IV",
                 "quantity": 120
             }
         ],
@@ -5549,7 +5549,7 @@
         "id": "mill",
         "game_id": "FoodMill",
         "icon": "FoodMill.png",
-        "name": "Mill",
+        "name": "磨",
         "category_id": "food_production",
         "category_name": "Food Production",
         "isMine": false,
@@ -5568,7 +5568,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 30
             }
         ],
@@ -5598,7 +5598,7 @@
         "id": "mixer",
         "game_id": "IndustrialMixer",
         "icon": "IndustrialMixer.png",
-        "name": "Mixer",
+        "name": "搅拌机",
         "category_id": "general_machines",
         "category_name": "General Machines",
         "isMine": false,
@@ -5617,7 +5617,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 30
             }
         ],
@@ -5675,7 +5675,7 @@
         "id": "nuclear_reactor",
         "game_id": "NuclearReactor",
         "icon": "NuclearReactor.png",
-        "name": "Nuclear Reactor",
+        "name": "核反应堆",
         "category_id": "power_production",
         "category_name": "Power Production",
         "isMine": false,
@@ -5694,12 +5694,12 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 600
             },
             {
                 "id": "electronics_ii",
-                "name": "Electronics II",
+                "name": "电子产品 II",
                 "quantity": 60
             }
         ],
@@ -5721,7 +5721,7 @@
         "id": "oil_pump",
         "game_id": "OilPump",
         "icon": "OilPump.png",
-        "name": "Oil Pump",
+        "name": "油泵",
         "category_id": "crude_oil_refining",
         "category_name": "Crude Oil Refining",
         "isMine": false,
@@ -5740,7 +5740,7 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 23
             }
         ],
@@ -5758,7 +5758,7 @@
         "id": "oxygen_furnace",
         "game_id": "OxygenFurnace",
         "icon": "OxygenFurnace.png",
-        "name": "Oxygen Furnace",
+        "name": "氧气转炉",
         "category_id": "metallurgy_and_smelting",
         "category_name": "Metallurgy & Smelting",
         "isMine": false,
@@ -5777,7 +5777,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 45
             }
         ],
@@ -5799,7 +5799,7 @@
         "id": "oxygen_furnace_ii",
         "game_id": "OxygenFurnaceT2",
         "icon": "OxygenFurnaceT2.png",
-        "name": "Oxygen Furnace II",
+        "name": "氧气转炉 II",
         "category_id": "metallurgy_and_smelting",
         "category_name": "Metallurgy & Smelting",
         "isMine": false,
@@ -5818,7 +5818,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 53
             }
         ],
@@ -5840,7 +5840,7 @@
         "id": "polymerization_plant",
         "game_id": "PolymerizationPlant",
         "icon": "PolymerizationPlant.png",
-        "name": "Polymerization Plant",
+        "name": "聚合装置",
         "category_id": "crude_oil_refining",
         "category_name": "Crude Oil Refining",
         "isMine": false,
@@ -5859,7 +5859,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 75
             }
         ],
@@ -5883,7 +5883,7 @@
         "id": "power_generator",
         "game_id": "PowerGeneratorT1",
         "icon": "PowerGeneratorT1.png",
-        "name": "Power Generator",
+        "name": "发电机",
         "category_id": "power_production",
         "category_name": "Power Production",
         "isMine": false,
@@ -5902,12 +5902,12 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 15
             },
             {
                 "id": "electronics",
-                "name": "Electronics",
+                "name": "电子产品",
                 "quantity": 15
             }
         ],
@@ -5946,12 +5946,12 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 60
             },
             {
                 "id": "electronics",
-                "name": "Electronics",
+                "name": "电子产品",
                 "quantity": 135
             }
         ],
@@ -5971,7 +5971,7 @@
         "id": "rainwater_harvester",
         "game_id": "RainwaterHarvester",
         "icon": "RainwaterHarvester.png",
-        "name": "Rainwater Harvester",
+        "name": "雨水收集器",
         "category_id": "water_extraction_and_processing",
         "category_name": "Water Extraction & Processing",
         "isMine": false,
@@ -5990,12 +5990,12 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 15
             },
             {
                 "id": "wood",
-                "name": "Wood",
+                "name": "木材",
                 "quantity": 23
             }
         ],
@@ -6009,7 +6009,7 @@
         "id": "recyclables_collection",
         "game_id": "SettlementRecyclablesModule",
         "icon": "SettlementRecyclablesModule.png",
-        "name": "Recyclables Collection",
+        "name": "可回收物收集",
         "category_id": "housing_and_services",
         "category_name": "Housing & Services",
         "isMine": false,
@@ -6028,7 +6028,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 45
             }
         ],
@@ -6042,7 +6042,7 @@
         "id": "research_lab",
         "game_id": "ResearchLab1",
         "icon": "ResearchLab1.png",
-        "name": "Research Lab",
+        "name": "研究实验室",
         "category_id": "buildings",
         "category_name": "Buildings",
         "isMine": false,
@@ -6061,7 +6061,7 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 23
             }
         ],
@@ -6094,12 +6094,12 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 45
             },
             {
                 "id": "lab_equipment",
-                "name": "Lab Equipment",
+                "name": "实验室设备",
                 "quantity": 8
             }
         ],
@@ -6138,12 +6138,12 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 90
             },
             {
                 "id": "lab_equipment_ii",
-                "name": "Lab Equipment II",
+                "name": "实验室设备 II",
                 "quantity": 15
             }
         ],
@@ -6182,17 +6182,17 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 165
             },
             {
                 "id": "glass",
-                "name": "Glass",
+                "name": "玻璃",
                 "quantity": 45
             },
             {
                 "id": "lab_equipment_iii",
-                "name": "Lab Equipment III",
+                "name": "实验室设备 III",
                 "quantity": 15
             }
         ],
@@ -6231,17 +6231,17 @@
         "build_costs": [
             {
                 "id": "construction_parts_iv",
-                "name": "Construction Parts IV",
+                "name": "结构件 IV",
                 "quantity": 150
             },
             {
                 "id": "glass",
-                "name": "Glass",
+                "name": "玻璃",
                 "quantity": 120
             },
             {
                 "id": "lab_equipment_iv",
-                "name": "Lab Equipment IV",
+                "name": "实验室设备 IV",
                 "quantity": 15
             }
         ],
@@ -6261,7 +6261,7 @@
         "id": "rock_mine",
         "game_id": "MineTower",
         "icon": "MineTower.png",
-        "name": "Rock Mine",
+        "name": "岩矿",
         "category_id": "mines",
         "category_name": "Mines",
         "isMine": true,
@@ -6280,7 +6280,7 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 20
             }
         ],
@@ -6298,7 +6298,7 @@
         "id": "rocket_assembly_depot",
         "game_id": "RocketAssemblyDepot",
         "icon": "RocketAssemblyDepot.png",
-        "name": "Rocket Assembly Depot",
+        "name": "火箭组装站",
         "category_id": "buildings",
         "category_name": "Buildings",
         "isMine": false,
@@ -6317,12 +6317,12 @@
         "build_costs": [
             {
                 "id": "construction_parts_iv",
-                "name": "Construction Parts IV",
+                "name": "结构件 IV",
                 "quantity": 900
             },
             {
                 "id": "vehicle_parts_iii",
-                "name": "Vehicle Parts III",
+                "name": "车辆零件 III",
                 "quantity": 120
             }
         ],
@@ -6336,7 +6336,7 @@
         "id": "rocket_launch_pad",
         "game_id": "RocketLaunchPad",
         "icon": "RocketLaunchPad.png",
-        "name": "Rocket Launch Pad",
+        "name": "火箭发射台",
         "category_id": "buildings",
         "category_name": "Buildings",
         "isMine": false,
@@ -6355,17 +6355,17 @@
         "build_costs": [
             {
                 "id": "construction_parts_iv",
-                "name": "Construction Parts IV",
+                "name": "结构件 IV",
                 "quantity": 225
             },
             {
                 "id": "concrete_slab",
-                "name": "Concrete slab",
+                "name": "混凝土楼板",
                 "quantity": 750
             },
             {
                 "id": "steel",
-                "name": "Steel",
+                "name": "钢",
                 "quantity": 600
             }
         ],
@@ -6379,7 +6379,7 @@
         "id": "rotary_kiln",
         "game_id": "RotaryKiln",
         "icon": "RotaryKiln.png",
-        "name": "Rotary Kiln",
+        "name": "回转窑",
         "category_id": "metallurgy_and_smelting",
         "category_name": "Metallurgy & Smelting",
         "isMine": false,
@@ -6398,7 +6398,7 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 45
             }
         ],
@@ -6420,7 +6420,7 @@
         "id": "rotary_kiln_gas",
         "game_id": "RotaryKilnGas",
         "icon": "RotaryKilnGas.png",
-        "name": "Rotary Kiln (Gas)",
+        "name": "回转窑（燃气）",
         "category_id": "metallurgy_and_smelting",
         "category_name": "Metallurgy & Smelting",
         "isMine": false,
@@ -6439,7 +6439,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 45
             }
         ],
@@ -6463,7 +6463,7 @@
         "id": "rubber_maker",
         "game_id": "VacuumDistillationTower",
         "icon": "VacuumDistillationTower.png",
-        "name": "Rubber Maker",
+        "name": "橡胶制造机",
         "category_id": "crude_oil_refining",
         "category_name": "Crude Oil Refining",
         "isMine": false,
@@ -6482,7 +6482,7 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 45
             }
         ],
@@ -6530,7 +6530,7 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 20
             }
         ],
@@ -6548,7 +6548,7 @@
         "id": "seawater_pump",
         "game_id": "OceanWaterPumpT1",
         "icon": "OceanWaterPumpT1.png",
-        "name": "Seawater Pump",
+        "name": "海水泵",
         "category_id": "water_extraction_and_processing",
         "category_name": "Water Extraction & Processing",
         "isMine": false,
@@ -6567,7 +6567,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 38
             }
         ],
@@ -6585,7 +6585,7 @@
         "id": "seawater_pump_tall",
         "game_id": "OceanWaterPumpLarge",
         "icon": "OceanWaterPumpLarge.png",
-        "name": "Seawater Pump (Tall)",
+        "name": "海水泵 (高)",
         "category_id": "water_extraction_and_processing",
         "category_name": "Water Extraction & Processing",
         "isMine": false,
@@ -6604,7 +6604,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 38
             }
         ],
@@ -6622,7 +6622,7 @@
         "id": "settling_tank",
         "game_id": "SettlingTank",
         "icon": "SettlingTank.png",
-        "name": "Settling Tank",
+        "name": "沉淀池",
         "category_id": "general_machines",
         "category_name": "General Machines",
         "isMine": false,
@@ -6641,7 +6641,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 60
             }
         ],
@@ -6689,7 +6689,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iv",
-                "name": "Construction Parts IV",
+                "name": "结构件 IV",
                 "quantity": 23
             }
         ],
@@ -6710,7 +6710,7 @@
         "id": "silicon_reactor",
         "game_id": "SiliconReactor",
         "icon": "SiliconReactor.png",
-        "name": "Silicon Reactor",
+        "name": "硅反应器",
         "category_id": "metallurgy_and_smelting",
         "category_name": "Metallurgy & Smelting",
         "isMine": false,
@@ -6729,7 +6729,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 15
             }
         ],
@@ -6769,7 +6769,7 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 20
             }
         ],
@@ -6806,7 +6806,7 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 20
             }
         ],
@@ -6824,7 +6824,7 @@
         "id": "smoke_stack",
         "game_id": "SmokeStack",
         "icon": "SmokeStack.png",
-        "name": "Smoke Stack",
+        "name": "烟囱",
         "category_id": "waste_management",
         "category_name": "Waste Management",
         "isMine": false,
@@ -6843,7 +6843,7 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 8
             }
         ],
@@ -6875,7 +6875,7 @@
         "id": "smoke_stack_large",
         "game_id": "SmokeStackLarge",
         "icon": "SmokeStackLarge.png",
-        "name": "Smoke Stack (Large)",
+        "name": "烟囱（大）",
         "category_id": "waste_management",
         "category_name": "Waste Management",
         "isMine": false,
@@ -6894,12 +6894,12 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 8
             },
             {
                 "id": "concrete_slab",
-                "name": "Concrete slab",
+                "name": "混凝土楼板",
                 "quantity": 30
             }
         ],
@@ -6931,7 +6931,7 @@
         "id": "solar_panel",
         "game_id": "SolarPanel",
         "icon": "SolarPanel.png",
-        "name": "Solar Panel",
+        "name": "太阳能板",
         "category_id": "power_production",
         "category_name": "Power Production",
         "isMine": false,
@@ -6950,17 +6950,17 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 15
             },
             {
                 "id": "electronics_ii",
-                "name": "Electronics II",
+                "name": "电子产品 II",
                 "quantity": 8
             },
             {
                 "id": "solar_cell",
-                "name": "Solar cell",
+                "name": "太阳能电池",
                 "quantity": 90
             }
         ],
@@ -6974,7 +6974,7 @@
         "id": "solar_panel_mono",
         "game_id": "SolarPanelMono",
         "icon": "SolarPanelMono.png",
-        "name": "Solar Panel (Mono)",
+        "name": "太阳能电池板（单晶）",
         "category_id": "power_production",
         "category_name": "Power Production",
         "isMine": false,
@@ -6993,17 +6993,17 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 15
             },
             {
                 "id": "electronics_ii",
-                "name": "Electronics II",
+                "name": "电子产品 II",
                 "quantity": 8
             },
             {
                 "id": "solar_cell_mono",
-                "name": "Solar cell mono",
+                "name": "太阳能电池单体",
                 "quantity": 90
             }
         ],
@@ -7017,7 +7017,7 @@
         "id": "sour_water_stripper",
         "game_id": "SourWaterStripper",
         "icon": "SourWaterStripper.png",
-        "name": "Sour Water Stripper",
+        "name": "酸水汽提器",
         "category_id": "crude_oil_refining",
         "category_name": "Crude Oil Refining",
         "isMine": false,
@@ -7036,7 +7036,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 30
             }
         ],
@@ -7078,12 +7078,12 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 150
             },
             {
                 "id": "concrete_slab",
-                "name": "Concrete slab",
+                "name": "混凝土楼板",
                 "quantity": 500
             }
         ],
@@ -7319,7 +7319,7 @@
         "id": "thermal_desalinator",
         "game_id": "ThermalDesalinator",
         "icon": "ThermalDesalinator.png",
-        "name": "Thermal Desalinator",
+        "name": "热脱盐器",
         "category_id": "water_extraction_and_processing",
         "category_name": "Water Extraction & Processing",
         "isMine": false,
@@ -7338,12 +7338,12 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 23
             },
             {
                 "id": "steel",
-                "name": "Steel",
+                "name": "钢",
                 "quantity": 23
             }
         ],
@@ -7369,7 +7369,7 @@
         "id": "unit_module_l",
         "game_id": "CargoDepotModuleUnitT3",
         "icon": "CargoDepotModuleUnitT3.png",
-        "name": "Unit Module (L)",
+        "name": "单元模块 (大)",
         "category_id": "cargo_docks",
         "category_name": "Cargo Docks",
         "isMine": false,
@@ -7388,7 +7388,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 90
             }
         ],
@@ -7402,7 +7402,7 @@
         "id": "unit_module_m",
         "game_id": "CargoDepotModuleUnitT2",
         "icon": "CargoDepotModuleUnitT2.png",
-        "name": "Unit Module (M)",
+        "name": "单位模块 (中)",
         "category_id": "cargo_docks",
         "category_name": "Cargo Docks",
         "isMine": false,
@@ -7421,7 +7421,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 45
             }
         ],
@@ -7435,7 +7435,7 @@
         "id": "unit_module_s",
         "game_id": "CargoDepotModuleUnitT1",
         "icon": "CargoDepotModuleUnitT1.png",
-        "name": "Unit Module (S)",
+        "name": "单位模块 (小)",
         "category_id": "cargo_docks",
         "category_name": "Cargo Docks",
         "isMine": false,
@@ -7454,7 +7454,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 30
             }
         ],
@@ -7468,7 +7468,7 @@
         "id": "unit_storage",
         "game_id": "StorageUnit",
         "icon": "StorageUnit.png",
-        "name": "Unit Storage",
+        "name": "单位存储",
         "category_id": "storage",
         "category_name": "Storage",
         "isMine": false,
@@ -7487,7 +7487,7 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 30
             }
         ],
@@ -7723,7 +7723,7 @@
         "id": "unit_storage_ii",
         "game_id": "StorageUnitT2",
         "icon": "StorageUnitT2.png",
-        "name": "Unit Storage II",
+        "name": "单位存储 II",
         "category_id": "storage",
         "category_name": "Storage",
         "isMine": false,
@@ -7742,7 +7742,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 30
             }
         ],
@@ -7978,7 +7978,7 @@
         "id": "unit_storage_iii",
         "game_id": "StorageUnitT3",
         "icon": "StorageUnitT3.png",
-        "name": "Unit Storage III",
+        "name": "单位存储 III",
         "category_id": "storage",
         "category_name": "Storage",
         "isMine": false,
@@ -7997,7 +7997,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 90
             }
         ],
@@ -8233,7 +8233,7 @@
         "id": "unit_storage_iv",
         "game_id": "StorageUnitT4",
         "icon": "StorageUnitT4.png",
-        "name": "Unit Storage IV",
+        "name": "单位存储 IV",
         "category_id": "storage",
         "category_name": "Storage",
         "isMine": false,
@@ -8252,7 +8252,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 180
             }
         ],
@@ -8488,7 +8488,7 @@
         "id": "vehicles_depot",
         "game_id": "VehiclesDepot",
         "icon": "VehiclesDepot.png",
-        "name": "Vehicles Depot",
+        "name": "车库",
         "category_id": "buildings_for_vehicles",
         "category_name": "Buildings (For Vehicles)",
         "isMine": false,
@@ -8507,7 +8507,7 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 30
             }
         ],
@@ -8521,7 +8521,7 @@
         "id": "vehicles_depot_ii",
         "game_id": "VehiclesDepotT2",
         "icon": "VehiclesDepotT2.png",
-        "name": "Vehicles Depot II",
+        "name": "车库 II",
         "category_id": "buildings_for_vehicles",
         "category_name": "Buildings (For Vehicles)",
         "isMine": false,
@@ -8540,7 +8540,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 90
             }
         ],
@@ -8554,7 +8554,7 @@
         "id": "vehicles_depot_iii",
         "game_id": "VehiclesDepotT3",
         "icon": "VehiclesDepotT3.png",
-        "name": "Vehicles Depot III",
+        "name": "车库 III",
         "category_id": "buildings_for_vehicles",
         "category_name": "Buildings (For Vehicles)",
         "isMine": false,
@@ -8573,7 +8573,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 210
             }
         ],
@@ -8587,7 +8587,7 @@
         "id": "waste_collection",
         "game_id": "SettlementLandfillModule",
         "icon": "SettlementLandfillModule.png",
-        "name": "Waste Collection",
+        "name": "垃圾收集",
         "category_id": "housing_and_services",
         "category_name": "Housing & Services",
         "isMine": false,
@@ -8606,7 +8606,7 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 19
             }
         ],
@@ -8639,7 +8639,7 @@
         "build_costs": [
             {
                 "id": "construction_parts",
-                "name": "Construction Parts",
+                "name": "结构件",
                 "quantity": 20
             }
         ],
@@ -8657,7 +8657,7 @@
         "id": "waste_sorting_plant",
         "game_id": "WasteSortingPlant",
         "icon": "WasteSortingPlant.png",
-        "name": "Waste Sorting Plant",
+        "name": "垃圾分类工厂",
         "category_id": "waste_management",
         "category_name": "Waste Management",
         "isMine": false,
@@ -8676,7 +8676,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 300
             }
         ],
@@ -8699,7 +8699,7 @@
         "id": "wastewater_treatment",
         "game_id": "WaterTreatmentPlant",
         "icon": "WaterTreatmentPlant.png",
-        "name": "Wastewater Treatment",
+        "name": "废水处理",
         "category_id": "waste_management",
         "category_name": "Waste Management",
         "isMine": false,
@@ -8718,7 +8718,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 105
             }
         ],
@@ -8747,7 +8747,7 @@
         "id": "water_chiller",
         "game_id": "WaterChiller",
         "icon": "WaterChiller.png",
-        "name": "Water Chiller",
+        "name": "水冷装置",
         "category_id": "water_extraction_and_processing",
         "category_name": "Water Extraction & Processing",
         "isMine": false,
@@ -8766,7 +8766,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_iii",
-                "name": "Construction Parts III",
+                "name": "结构件 III",
                 "quantity": 30
             }
         ],
@@ -8786,7 +8786,7 @@
         "id": "water_facility",
         "game_id": "SettlementWaterModule",
         "icon": "SettlementWaterModule.png",
-        "name": "Water Facility",
+        "name": "供水设施",
         "category_id": "housing_and_services",
         "category_name": "Housing & Services",
         "isMine": false,
@@ -8805,7 +8805,7 @@
         "build_costs": [
             {
                 "id": "construction_parts_ii",
-                "name": "Construction Parts II",
+                "name": "结构件 II",
                 "quantity": 30
             }
         ],

@@ -27,7 +27,7 @@
                     "inputs": [],
                     "outputs": [
                         {
-                            "name": "Dirt",
+                            "name": "土",
                             "quantity": 0
                         }
                     ]
@@ -36,7 +36,7 @@
         },
         {
             "id": "MineTower",
-            "name": "Rock Mine",
+            "name": "岩矿",
             "category": "Mines",
             "workers": 0,
             "maintenance_cost_units": "",
@@ -61,7 +61,7 @@
                     "inputs": [],
                     "outputs": [
                         {
-                            "name": "Rock",
+                            "name": "岩石",
                             "quantity": 0
                         }
                     ]
@@ -95,7 +95,7 @@
                     "inputs": [],
                     "outputs": [
                         {
-                            "name": "Gravel",
+                            "name": "碎石",
                             "quantity": 0
                         }
                     ]
@@ -129,7 +129,7 @@
                     "inputs": [],
                     "outputs": [
                         {
-                            "name": "Sand",
+                            "name": "沙",
                             "quantity": 0
                         }
                     ]
@@ -163,7 +163,7 @@
                     "inputs": [],
                     "outputs": [
                         {
-                            "name": "Limestone",
+                            "name": "石灰石",
                             "quantity": 0
                         }
                     ]
@@ -172,7 +172,7 @@
         },
         {
             "id": "MineTower",
-            "name": "Coal Mine",
+            "name": "煤矿",
             "category": "Mines",
             "workers": 0,
             "maintenance_cost_units": "",
@@ -197,7 +197,7 @@
                     "inputs": [],
                     "outputs": [
                         {
-                            "name": "Coal",
+                            "name": "煤",
                             "quantity": 0
                         }
                     ]
@@ -231,7 +231,7 @@
                     "inputs": [],
                     "outputs": [
                         {
-                            "name": "Slag",
+                            "name": "矿渣",
                             "quantity": 0
                         }
                     ]
@@ -265,7 +265,7 @@
                     "inputs": [],
                     "outputs": [
                         {
-                            "name": "Slag crushed",
+                            "name": "碎矿渣",
                             "quantity": 0
                         }
                     ]
@@ -299,7 +299,7 @@
                     "inputs": [],
                     "outputs": [
                         {
-                            "name": "Iron ore",
+                            "name": "铁矿石",
                             "quantity": 0
                         }
                     ]
@@ -333,7 +333,7 @@
                     "inputs": [],
                     "outputs": [
                         {
-                            "name": "Copper ore",
+                            "name": "铜矿石",
                             "quantity": 0
                         }
                     ]
@@ -367,7 +367,7 @@
                     "inputs": [],
                     "outputs": [
                         {
-                            "name": "Gold ore",
+                            "name": "金矿石",
                             "quantity": 0
                         }
                     ]
@@ -401,7 +401,7 @@
                     "inputs": [],
                     "outputs": [
                         {
-                            "name": "Waste",
+                            "name": "垃圾",
                             "quantity": 0
                         }
                     ]

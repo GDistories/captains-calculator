@@ -1,7 +1,7 @@
 {
     "acid": {
         "id": "acid",
-        "name": "Acid",
+        "name": "酸",
         "icon": "Acid.png",
         "recipes": {
             "input": [
@@ -58,7 +58,7 @@
     },
     "air_pollution": {
         "id": "air_pollution",
-        "name": "Air Pollution",
+        "name": "空气污染",
         "icon": "AirPollution.png",
         "recipes": {
             "input": [],
@@ -99,7 +99,7 @@
     },
     "ammonia": {
         "id": "ammonia",
-        "name": "Ammonia",
+        "name": "氨",
         "icon": "Ammonia.png",
         "recipes": {
             "input": [
@@ -149,7 +149,7 @@
     },
     "anesthetics": {
         "id": "anesthetics",
-        "name": "Anesthetics",
+        "name": "麻醉剂",
         "icon": "Anesthetics.png",
         "recipes": {
             "input": [
@@ -192,7 +192,7 @@
     },
     "animal_feed": {
         "id": "animal_feed",
-        "name": "Animal Feed",
+        "name": "动物饲料",
         "icon": "AnimalFeed.png",
         "recipes": {
             "input": [
@@ -243,7 +243,7 @@
     },
     "antibiotics": {
         "id": "antibiotics",
-        "name": "Antibiotics",
+        "name": "抗生素",
         "icon": "Antibiotics.png",
         "recipes": {
             "input": [
@@ -286,7 +286,7 @@
     },
     "biomass": {
         "id": "biomass",
-        "name": "Biomass",
+        "name": "生物质",
         "icon": "Biomass.png",
         "recipes": {
             "input": [
@@ -329,7 +329,7 @@
     },
     "bread": {
         "id": "bread",
-        "name": "Bread",
+        "name": "面包",
         "icon": "Bread.png",
         "recipes": {
             "input": [
@@ -371,7 +371,7 @@
     },
     "brine": {
         "id": "brine",
-        "name": "Brine",
+        "name": "盐水",
         "icon": "Brine.png",
         "recipes": {
             "input": [
@@ -426,7 +426,7 @@
     },
     "broken_glass": {
         "id": "broken_glass",
-        "name": "Broken Glass",
+        "name": "碎玻璃",
         "icon": "BrokenGlass.png",
         "recipes": {
             "input": [
@@ -467,7 +467,7 @@
     },
     "cake": {
         "id": "cake",
-        "name": "Cake",
+        "name": "蛋糕",
         "icon": "Cake.png",
         "recipes": {
             "input": [
@@ -506,7 +506,7 @@
     },
     "canola": {
         "id": "canola",
-        "name": "Canola",
+        "name": "油菜",
         "icon": "Canola.png",
         "recipes": {
             "input": [
@@ -541,7 +541,7 @@
     },
     "carbon_dioxide": {
         "id": "carbon_dioxide",
-        "name": "Carbon Dioxide",
+        "name": "二氧化碳",
         "icon": "CarbonDioxide.png",
         "recipes": {
             "input": [
@@ -596,7 +596,7 @@
     },
     "cement": {
         "id": "cement",
-        "name": "Cement",
+        "name": "水泥",
         "icon": "Cement.png",
         "recipes": {
             "input": [
@@ -649,7 +649,7 @@
     },
     "chicken_carcass": {
         "id": "chicken_carcass",
-        "name": "Chicken Carcass",
+        "name": "鸡骨架",
         "icon": "ChickenCarcass.png",
         "recipes": {
             "input": [
@@ -690,7 +690,7 @@
     },
     "chilled_water": {
         "id": "chilled_water",
-        "name": "Chilled Water",
+        "name": "冷冻水",
         "icon": "ChilledWater.png",
         "recipes": {
             "input": [
@@ -727,7 +727,7 @@
     },
     "chlorine": {
         "id": "chlorine",
-        "name": "Chlorine",
+        "name": "氯",
         "icon": "Chlorine.png",
         "recipes": {
             "input": [
@@ -770,7 +770,7 @@
     },
     "coal": {
         "id": "coal",
-        "name": "Coal",
+        "name": "煤",
         "icon": "Coal.png",
         "recipes": {
             "input": [
@@ -839,7 +839,7 @@
     },
     "compost": {
         "id": "compost",
-        "name": "Compost",
+        "name": "堆肥",
         "icon": "Compost.png",
         "recipes": {
             "input": [
@@ -883,7 +883,7 @@
     },
     "concrete_slab": {
         "id": "concrete_slab",
-        "name": "Concrete Slab",
+        "name": "混凝土楼板",
         "icon": "ConcreteSlab.png",
         "recipes": {
             "input": [
@@ -939,7 +939,7 @@
     },
     "construction_parts": {
         "id": "construction_parts",
-        "name": "Construction Parts",
+        "name": "结构件",
         "icon": "ConstructionParts.png",
         "recipes": {
             "input": [
@@ -992,7 +992,7 @@
     },
     "construction_parts_ii": {
         "id": "construction_parts_ii",
-        "name": "Construction Parts II",
+        "name": "结构件 II",
         "icon": "ConstructionParts2.png",
         "recipes": {
             "input": [
@@ -1043,7 +1043,7 @@
     },
     "construction_parts_iii": {
         "id": "construction_parts_iii",
-        "name": "Construction Parts III",
+        "name": "结构件 III",
         "icon": "ConstructionParts3.png",
         "recipes": {
             "input": [
@@ -1090,7 +1090,7 @@
     },
     "construction_parts_iv": {
         "id": "construction_parts_iv",
-        "name": "Construction Parts IV",
+        "name": "结构件 IV",
         "icon": "ConstructionParts4.png",
         "recipes": {
             "input": [
@@ -1131,7 +1131,7 @@
     },
     "consumer_electronics": {
         "id": "consumer_electronics",
-        "name": "Consumer Electronics",
+        "name": "消费类电子产品",
         "icon": "ConsumerElectronics.png",
         "recipes": {
             "input": [
@@ -1170,7 +1170,7 @@
     },
     "cooking_oil": {
         "id": "cooking_oil",
-        "name": "Cooking Oil",
+        "name": "食用油",
         "icon": "CookingOil.png",
         "recipes": {
             "input": [
@@ -1215,7 +1215,7 @@
     },
     "copper": {
         "id": "copper",
-        "name": "Copper",
+        "name": "铜",
         "icon": "Copper.png",
         "recipes": {
             "input": [
@@ -1278,7 +1278,7 @@
     },
     "copper_ore": {
         "id": "copper_ore",
-        "name": "Copper Ore",
+        "name": "铜矿石",
         "icon": "CopperOre.png",
         "recipes": {
             "input": [
@@ -1317,7 +1317,7 @@
     },
     "copper_ore_crushed": {
         "id": "copper_ore_crushed",
-        "name": "Copper Ore Crushed",
+        "name": "碎铜矿石",
         "icon": "CopperOreCrushed.png",
         "recipes": {
             "input": [
@@ -1356,7 +1356,7 @@
     },
     "copper_scrap": {
         "id": "copper_scrap",
-        "name": "Copper Scrap",
+        "name": "铜废料",
         "icon": "CopperScrap.png",
         "recipes": {
             "input": [
@@ -1397,7 +1397,7 @@
     },
     "corn": {
         "id": "corn",
-        "name": "Corn",
+        "name": "玉米",
         "icon": "Corn.png",
         "recipes": {
             "input": [
@@ -1436,7 +1436,7 @@
     },
     "corn_mash": {
         "id": "corn_mash",
-        "name": "Corn Mash",
+        "name": "玉米泥",
         "icon": "CornMash.png",
         "recipes": {
             "input": [
@@ -1512,7 +1512,7 @@
     },
     "diesel": {
         "id": "diesel",
-        "name": "Diesel",
+        "name": "柴油",
         "icon": "Diesel.png",
         "recipes": {
             "input": [
@@ -1566,7 +1566,7 @@
     },
     "dirt": {
         "id": "dirt",
-        "name": "Dirt",
+        "name": "土",
         "icon": "Dirt.png",
         "recipes": {
             "input": [
@@ -1601,7 +1601,7 @@
     },
     "disinfectant": {
         "id": "disinfectant",
-        "name": "Disinfectant",
+        "name": "消毒剂",
         "icon": "Disinfectant.png",
         "recipes": {
             "input": [
@@ -1646,7 +1646,7 @@
     },
     "eggs": {
         "id": "eggs",
-        "name": "Eggs",
+        "name": "鸡蛋",
         "icon": "Eggs.png",
         "recipes": {
             "input": [
@@ -1687,7 +1687,7 @@
     },
     "electricity": {
         "id": "electricity",
-        "name": "Electricity",
+        "name": "电力",
         "icon": "Electricity.png",
         "recipes": {
             "input": [],
@@ -1708,7 +1708,7 @@
     },
     "electronics": {
         "id": "electronics",
-        "name": "Electronics",
+        "name": "电子产品",
         "icon": "Electronics.png",
         "recipes": {
             "input": [
@@ -1785,7 +1785,7 @@
     },
     "electronics_ii": {
         "id": "electronics_ii",
-        "name": "Electronics II",
+        "name": "电子产品 II",
         "icon": "Electronics2.png",
         "recipes": {
             "input": [
@@ -1848,7 +1848,7 @@
     },
     "electronics_iii": {
         "id": "electronics_iii",
-        "name": "Electronics III",
+        "name": "电子产品 III",
         "icon": "Electronics3.png",
         "recipes": {
             "input": [
@@ -1903,7 +1903,7 @@
     },
     "ethanol": {
         "id": "ethanol",
-        "name": "Ethanol",
+        "name": "乙醇",
         "icon": "Ethanol.png",
         "recipes": {
             "input": [
@@ -1953,7 +1953,7 @@
     },
     "exhaust": {
         "id": "exhaust",
-        "name": "Exhaust",
+        "name": "废气",
         "icon": "Exhaust.png",
         "recipes": {
             "input": [
@@ -2045,7 +2045,7 @@
     },
     "fertilizer_i": {
         "id": "fertilizer_i",
-        "name": "Fertilizer I",
+        "name": "肥料 I",
         "icon": "Fertilizer1.png",
         "recipes": {
             "input": [
@@ -2084,7 +2084,7 @@
     },
     "fertilizer_ii": {
         "id": "fertilizer_ii",
-        "name": "Fertilizer II",
+        "name": "肥料 II",
         "icon": "Fertilizer2.png",
         "recipes": {
             "input": [
@@ -2119,7 +2119,7 @@
     },
     "fertilizer_organic": {
         "id": "fertilizer_organic",
-        "name": "Fertilizer (Organic)",
+        "name": "肥料 （有机）",
         "icon": "FertilizerOrganic.png",
         "recipes": {
             "input": [
@@ -2154,7 +2154,7 @@
     },
     "filter_media": {
         "id": "filter_media",
-        "name": "Filter Media",
+        "name": "过滤介质",
         "icon": "FilterMedia.png",
         "recipes": {
             "input": [
@@ -2192,7 +2192,7 @@
     },
     "flour": {
         "id": "flour",
-        "name": "Flour",
+        "name": "面粉",
         "icon": "Flour.png",
         "recipes": {
             "input": [
@@ -2236,7 +2236,7 @@
     },
     "flowers": {
         "id": "flowers",
-        "name": "Flowers",
+        "name": "花",
         "icon": "Flowers.png",
         "recipes": {
             "input": [
@@ -2273,7 +2273,7 @@
     },
     "food_pack": {
         "id": "food_pack",
-        "name": "Food Pack",
+        "name": "食品包",
         "icon": "FoodPack.png",
         "recipes": {
             "input": [
@@ -2313,7 +2313,7 @@
     },
     "fruit": {
         "id": "fruit",
-        "name": "Fruit",
+        "name": "水果",
         "icon": "Fruit.png",
         "recipes": {
             "input": [
@@ -2352,7 +2352,7 @@
     },
     "fuel_gas": {
         "id": "fuel_gas",
-        "name": "Fuel Gas",
+        "name": "燃气",
         "icon": "FuelGas.png",
         "recipes": {
             "input": [
@@ -2409,7 +2409,7 @@
     },
     "glass": {
         "id": "glass",
-        "name": "Glass",
+        "name": "玻璃",
         "icon": "Glass.png",
         "recipes": {
             "input": [
@@ -2470,7 +2470,7 @@
     },
     "glass_mix": {
         "id": "glass_mix",
-        "name": "Glass Mix",
+        "name": "玻璃混合物",
         "icon": "GlassMix.png",
         "recipes": {
             "input": [
@@ -2512,7 +2512,7 @@
     },
     "gold": {
         "id": "gold",
-        "name": "Gold",
+        "name": "金",
         "icon": "Gold.png",
         "recipes": {
             "input": [
@@ -2562,7 +2562,7 @@
     },
     "gold_ore": {
         "id": "gold_ore",
-        "name": "Gold Ore",
+        "name": "金矿石",
         "icon": "GoldOre.png",
         "recipes": {
             "input": [
@@ -2599,7 +2599,7 @@
     },
     "gold_ore_concentrate": {
         "id": "gold_ore_concentrate",
-        "name": "Gold Ore Concentrate",
+        "name": "金精矿",
         "icon": "GoldOreConcentrate.png",
         "recipes": {
             "input": [
@@ -2636,7 +2636,7 @@
     },
     "gold_ore_crushed": {
         "id": "gold_ore_crushed",
-        "name": "Gold Ore Crushed",
+        "name": "碎金矿石",
         "icon": "GoldOreCrushed.png",
         "recipes": {
             "input": [
@@ -2673,7 +2673,7 @@
     },
     "gold_ore_powder": {
         "id": "gold_ore_powder",
-        "name": "Gold Ore Powder",
+        "name": "金矿粉",
         "icon": "GoldOrePowder.png",
         "recipes": {
             "input": [
@@ -2710,7 +2710,7 @@
     },
     "gold_scrap": {
         "id": "gold_scrap",
-        "name": "Gold Scrap",
+        "name": "金废料",
         "icon": "GoldScrap.png",
         "recipes": {
             "input": [
@@ -2747,7 +2747,7 @@
     },
     "graphite": {
         "id": "graphite",
-        "name": "Graphite",
+        "name": "石墨",
         "icon": "Graphite.png",
         "recipes": {
             "input": [
@@ -2797,7 +2797,7 @@
     },
     "gravel": {
         "id": "gravel",
-        "name": "Gravel",
+        "name": "碎石",
         "icon": "Gravel.png",
         "recipes": {
             "input": [
@@ -2887,7 +2887,7 @@
     },
     "household_appliances": {
         "id": "household_appliances",
-        "name": "Household Appliances",
+        "name": "家用设备",
         "icon": "HouseholdAppliances.png",
         "recipes": {
             "input": [
@@ -2930,7 +2930,7 @@
     },
     "household_goods": {
         "id": "household_goods",
-        "name": "Household Goods",
+        "name": "家庭用品",
         "icon": "HouseholdGoods.png",
         "recipes": {
             "input": [
@@ -2973,7 +2973,7 @@
     },
     "hydrogen": {
         "id": "hydrogen",
-        "name": "Hydrogen",
+        "name": "氢",
         "icon": "Hydrogen.png",
         "recipes": {
             "input": [
@@ -3028,7 +3028,7 @@
     },
     "hydrogen_fluoride": {
         "id": "hydrogen_fluoride",
-        "name": "Hydrogen Fluoride",
+        "name": "氟化氢",
         "icon": "HydrogenFluoride.png",
         "recipes": {
             "input": [
@@ -3067,7 +3067,7 @@
     },
     "impure_copper": {
         "id": "impure_copper",
-        "name": "Impure Copper",
+        "name": "不纯铜",
         "icon": "ImpureCopper.png",
         "recipes": {
             "input": [
@@ -3111,7 +3111,7 @@
     },
     "iron": {
         "id": "iron",
-        "name": "Iron",
+        "name": "铁",
         "icon": "Iron.png",
         "recipes": {
             "input": [
@@ -3167,7 +3167,7 @@
     },
     "iron_ore": {
         "id": "iron_ore",
-        "name": "Iron Ore",
+        "name": "铁矿石",
         "icon": "IronOre.png",
         "recipes": {
             "input": [
@@ -3206,7 +3206,7 @@
     },
     "iron_ore_crushed": {
         "id": "iron_ore_crushed",
-        "name": "Iron Ore Crushed",
+        "name": "碎铁矿石",
         "icon": "IronOreCrushed.png",
         "recipes": {
             "input": [
@@ -3245,7 +3245,7 @@
     },
     "iron_scrap": {
         "id": "iron_scrap",
-        "name": "Iron Scrap",
+        "name": "铁废料",
         "icon": "IronScrap.png",
         "recipes": {
             "input": [
@@ -3286,7 +3286,7 @@
     },
     "lab_equipment": {
         "id": "lab_equipment",
-        "name": "Lab Equipment",
+        "name": "实验室设备",
         "icon": "LabEquipment.png",
         "recipes": {
             "input": [
@@ -3335,7 +3335,7 @@
     },
     "lab_equipment_ii": {
         "id": "lab_equipment_ii",
-        "name": "Lab Equipment II",
+        "name": "实验室设备 II",
         "icon": "LabEquipment2.png",
         "recipes": {
             "input": [
@@ -3382,7 +3382,7 @@
     },
     "lab_equipment_iii": {
         "id": "lab_equipment_iii",
-        "name": "Lab Equipment III",
+        "name": "实验室设备 III",
         "icon": "LabEquipment3.png",
         "recipes": {
             "input": [
@@ -3429,7 +3429,7 @@
     },
     "lab_equipment_iv": {
         "id": "lab_equipment_iv",
-        "name": "Lab Equipment IV",
+        "name": "实验室设备 IV",
         "icon": "LabEquipment4.png",
         "recipes": {
             "input": [
@@ -3472,7 +3472,7 @@
     },
     "light_oil": {
         "id": "light_oil",
-        "name": "Light Oil",
+        "name": "轻油",
         "icon": "LightOil.png",
         "recipes": {
             "input": [
@@ -3513,7 +3513,7 @@
     },
     "limestone": {
         "id": "limestone",
-        "name": "Limestone",
+        "name": "石灰石",
         "icon": "Limestone.png",
         "recipes": {
             "input": [
@@ -3609,7 +3609,7 @@
     },
     "maintenance_i": {
         "id": "maintenance_i",
-        "name": "Maintenance I",
+        "name": "维护 I",
         "icon": "Maintenance1.png",
         "recipes": {
             "input": [],
@@ -3632,7 +3632,7 @@
     },
     "maintenance_ii": {
         "id": "maintenance_ii",
-        "name": "Maintenance II",
+        "name": "维护 II",
         "icon": "Maintenance2.png",
         "recipes": {
             "input": [],
@@ -3652,7 +3652,7 @@
     },
     "maintenance_iii": {
         "id": "maintenance_iii",
-        "name": "Maintenance III",
+        "name": "维护 III",
         "icon": "Maintenance3.png",
         "recipes": {
             "input": [],
@@ -3672,7 +3672,7 @@
     },
     "meat": {
         "id": "meat",
-        "name": "Meat",
+        "name": "肉",
         "icon": "Meat.png",
         "recipes": {
             "input": [
@@ -3713,7 +3713,7 @@
     },
     "meat_trimmings": {
         "id": "meat_trimmings",
-        "name": "Meat Trimmings",
+        "name": "碎肉",
         "icon": "MeatTrimmings.png",
         "recipes": {
             "input": [
@@ -3756,7 +3756,7 @@
     },
     "mechanical_parts": {
         "id": "mechanical_parts",
-        "name": "Mechanical Parts",
+        "name": "机械零件",
         "icon": "MechanicalParts.png",
         "recipes": {
             "input": [
@@ -3831,7 +3831,7 @@
     },
     "mechanical_power": {
         "id": "mechanical_power",
-        "name": "Mechanical Power",
+        "name": "机械动力",
         "icon": "MechanicalPower.png",
         "recipes": {
             "input": [
@@ -3860,7 +3860,7 @@
     },
     "medical_equipment": {
         "id": "medical_equipment",
-        "name": "Medical Equipment",
+        "name": "医用器材",
         "icon": "MedicalEquipment.png",
         "recipes": {
             "input": [
@@ -3905,7 +3905,7 @@
     },
     "medical_supplies": {
         "id": "medical_supplies",
-        "name": "Medical Supplies",
+        "name": "医疗用品",
         "icon": "MedicalSupplies.png",
         "recipes": {
             "input": [
@@ -3950,7 +3950,7 @@
     },
     "medical_supplies_ii": {
         "id": "medical_supplies_ii",
-        "name": "Medical Supplies II",
+        "name": "医疗用品 II",
         "icon": "MedicalSupplies2.png",
         "recipes": {
             "input": [
@@ -3995,7 +3995,7 @@
     },
     "medical_supplies_iii": {
         "id": "medical_supplies_iii",
-        "name": "Medical Supplies III",
+        "name": "医疗用品 III",
         "icon": "MedicalSupplies3.png",
         "recipes": {
             "input": [
@@ -4036,7 +4036,7 @@
     },
     "medium_oil": {
         "id": "medium_oil",
-        "name": "Medium Oil",
+        "name": "中油",
         "icon": "MediumOil.png",
         "recipes": {
             "input": [
@@ -4075,7 +4075,7 @@
     },
     "microchips": {
         "id": "microchips",
-        "name": "Microchips",
+        "name": "微芯片",
         "icon": "Microchips.png",
         "recipes": {
             "input": [
@@ -4122,7 +4122,7 @@
     },
     "microchips_stage_1_a": {
         "id": "microchips_stage_1_a",
-        "name": "Microchips Stage 1 A",
+        "name": "微芯片 阶段 1 a",
         "icon": "MicrochipsStage1A.png",
         "recipes": {
             "input": [
@@ -4167,7 +4167,7 @@
     },
     "microchips_stage_1_b": {
         "id": "microchips_stage_1_b",
-        "name": "Microchips Stage 1 B",
+        "name": "微芯片 阶段 1 b",
         "icon": "MicrochipsStage1B.png",
         "recipes": {
             "input": [
@@ -4212,7 +4212,7 @@
     },
     "microchips_stage_1_c": {
         "id": "microchips_stage_1_c",
-        "name": "Microchips Stage 1 C",
+        "name": "微芯片 阶段 1 c",
         "icon": "MicrochipsStage1C.png",
         "recipes": {
             "input": [
@@ -4257,7 +4257,7 @@
     },
     "microchips_stage_2_a": {
         "id": "microchips_stage_2_a",
-        "name": "Microchips Stage 2 A",
+        "name": "微芯片 阶段 2 a",
         "icon": "MicrochipsStage2A.png",
         "recipes": {
             "input": [
@@ -4302,7 +4302,7 @@
     },
     "microchips_stage_2_b": {
         "id": "microchips_stage_2_b",
-        "name": "Microchips Stage 2 B",
+        "name": "微芯片 阶段 2 b",
         "icon": "MicrochipsStage2B.png",
         "recipes": {
             "input": [
@@ -4347,7 +4347,7 @@
     },
     "microchips_stage_2_c": {
         "id": "microchips_stage_2_c",
-        "name": "Microchips Stage 2 C",
+        "name": "微芯片 阶段 2 c",
         "icon": "MicrochipsStage2C.png",
         "recipes": {
             "input": [
@@ -4392,7 +4392,7 @@
     },
     "microchips_stage_3_a": {
         "id": "microchips_stage_3_a",
-        "name": "Microchips Stage 3 A",
+        "name": "微芯片 阶段 3 a",
         "icon": "MicrochipsStage3A.png",
         "recipes": {
             "input": [
@@ -4437,7 +4437,7 @@
     },
     "microchips_stage_3_b": {
         "id": "microchips_stage_3_b",
-        "name": "Microchips Stage 3 B",
+        "name": "微芯片 阶段 3 b",
         "icon": "MicrochipsStage3B.png",
         "recipes": {
             "input": [
@@ -4482,7 +4482,7 @@
     },
     "microchips_stage_3_c": {
         "id": "microchips_stage_3_c",
-        "name": "Microchips Stage 3 C",
+        "name": "微芯片 阶段 3 c",
         "icon": "MicrochipsStage3C.png",
         "recipes": {
             "input": [
@@ -4527,7 +4527,7 @@
     },
     "microchips_stage_4_a": {
         "id": "microchips_stage_4_a",
-        "name": "Microchips Stage 4 A",
+        "name": "微芯片 阶段 4 a",
         "icon": "MicrochipsStage4A.png",
         "recipes": {
             "input": [
@@ -4572,7 +4572,7 @@
     },
     "microchips_stage_4_b": {
         "id": "microchips_stage_4_b",
-        "name": "Microchips Stage 4 B",
+        "name": "微芯片 阶段 4 b",
         "icon": "MicrochipsStage4B.png",
         "recipes": {
             "input": [
@@ -4617,7 +4617,7 @@
     },
     "molten_copper": {
         "id": "molten_copper",
-        "name": "Molten Copper",
+        "name": "熔融铜",
         "icon": "MoltenCopper.png",
         "recipes": {
             "input": [
@@ -4647,7 +4647,7 @@
     },
     "molten_glass": {
         "id": "molten_glass",
-        "name": "Molten Glass",
+        "name": "熔融玻璃",
         "icon": "MoltenGlass.png",
         "recipes": {
             "input": [
@@ -4677,7 +4677,7 @@
     },
     "molten_iron": {
         "id": "molten_iron",
-        "name": "Molten Iron",
+        "name": "铁水",
         "icon": "MoltenIron.png",
         "recipes": {
             "input": [
@@ -4711,7 +4711,7 @@
     },
     "molten_silicon": {
         "id": "molten_silicon",
-        "name": "Molten Silicon",
+        "name": "熔融硅",
         "icon": "MoltenSilicon.png",
         "recipes": {
             "input": [
@@ -4734,7 +4734,7 @@
     },
     "molten_steel": {
         "id": "molten_steel",
-        "name": "Molten Steel",
+        "name": "钢水",
         "icon": "MoltenSteel.png",
         "recipes": {
             "input": [
@@ -4759,7 +4759,7 @@
     },
     "morphine": {
         "id": "morphine",
-        "name": "Morphine",
+        "name": "吗啡",
         "icon": "Morphine.png",
         "recipes": {
             "input": [
@@ -4852,7 +4852,7 @@
     },
     "nitrogen": {
         "id": "nitrogen",
-        "name": "Nitrogen",
+        "name": "氮",
         "icon": "Nitrogen.png",
         "recipes": {
             "input": [
@@ -4901,7 +4901,7 @@
     },
     "oxygen": {
         "id": "oxygen",
-        "name": "Oxygen",
+        "name": "氧",
         "icon": "Oxygen.png",
         "recipes": {
             "input": [
@@ -4952,7 +4952,7 @@
     },
     "pcb": {
         "id": "pcb",
-        "name": "PCB",
+        "name": "印刷电路板",
         "icon": "PCB.png",
         "recipes": {
             "input": [
@@ -5001,7 +5001,7 @@
     },
     "plastic": {
         "id": "plastic",
-        "name": "Plastic",
+        "name": "塑料",
         "icon": "Plastic.png",
         "recipes": {
             "input": [
@@ -5067,7 +5067,7 @@
     },
     "poppy": {
         "id": "poppy",
-        "name": "Poppy",
+        "name": "罂粟",
         "icon": "Poppy.png",
         "recipes": {
             "input": [
@@ -5102,7 +5102,7 @@
     },
     "potato": {
         "id": "potato",
-        "name": "Potato",
+        "name": "土豆",
         "icon": "Potato.png",
         "recipes": {
             "input": [
@@ -5141,7 +5141,7 @@
     },
     "quartz": {
         "id": "quartz",
-        "name": "Quartz",
+        "name": "石英",
         "icon": "Quartz.png",
         "recipes": {
             "input": [
@@ -5178,7 +5178,7 @@
     },
     "recyclables": {
         "id": "recyclables",
-        "name": "Recyclables",
+        "name": "可回收物",
         "icon": "Recyclables.png",
         "recipes": {
             "input": [
@@ -5230,7 +5230,7 @@
     },
     "rock": {
         "id": "rock",
-        "name": "Rock",
+        "name": "岩石",
         "icon": "Rock.png",
         "recipes": {
             "input": [
@@ -5269,7 +5269,7 @@
     },
     "rubber": {
         "id": "rubber",
-        "name": "Rubber",
+        "name": "橡胶",
         "icon": "Rubber.png",
         "recipes": {
             "input": [
@@ -5322,7 +5322,7 @@
     },
     "salt": {
         "id": "salt",
-        "name": "Salt",
+        "name": "盐",
         "icon": "Salt.png",
         "recipes": {
             "input": [
@@ -5370,7 +5370,7 @@
     },
     "sand": {
         "id": "sand",
-        "name": "Sand",
+        "name": "沙",
         "icon": "Sand.png",
         "recipes": {
             "input": [
@@ -5428,7 +5428,7 @@
     },
     "sausage": {
         "id": "sausage",
-        "name": "Sausage",
+        "name": "香肠",
         "icon": "Sausage.png",
         "recipes": {
             "input": [
@@ -5467,7 +5467,7 @@
     },
     "seawater": {
         "id": "seawater",
-        "name": "Seawater",
+        "name": "海水",
         "icon": "Seawater.png",
         "recipes": {
             "input": [
@@ -5520,7 +5520,7 @@
     },
     "server": {
         "id": "server",
-        "name": "Server",
+        "name": "服务器",
         "icon": "Server.png",
         "recipes": {
             "input": [
@@ -5563,7 +5563,7 @@
     },
     "silicon_poly": {
         "id": "silicon_poly",
-        "name": "Silicon (Poly)",
+        "name": "硅（聚）",
         "icon": "SiliconPoly.png",
         "recipes": {
             "input": [
@@ -5613,7 +5613,7 @@
     },
     "silicon_wafer": {
         "id": "silicon_wafer",
-        "name": "Silicon Wafer",
+        "name": "硅片",
         "icon": "SiliconWafer.png",
         "recipes": {
             "input": [
@@ -5658,7 +5658,7 @@
     },
     "slag": {
         "id": "slag",
-        "name": "Slag",
+        "name": "矿渣",
         "icon": "Slag.png",
         "recipes": {
             "input": [
@@ -5718,7 +5718,7 @@
     },
     "slag_crushed": {
         "id": "slag_crushed",
-        "name": "Slag Crushed",
+        "name": "碎矿渣",
         "icon": "SlagCrushed.png",
         "recipes": {
             "input": [
@@ -5762,7 +5762,7 @@
     },
     "sludge": {
         "id": "sludge",
-        "name": "Sludge",
+        "name": "污泥",
         "icon": "Sludge.png",
         "recipes": {
             "input": [
@@ -5802,7 +5802,7 @@
     },
     "snack": {
         "id": "snack",
-        "name": "Snack",
+        "name": "零食",
         "icon": "Snack.png",
         "recipes": {
             "input": [
@@ -5845,7 +5845,7 @@
     },
     "solar_cell": {
         "id": "solar_cell",
-        "name": "Solar Cell",
+        "name": "太阳能电池",
         "icon": "SolarCell.png",
         "recipes": {
             "input": [
@@ -5888,7 +5888,7 @@
     },
     "solar_cell_mono": {
         "id": "solar_cell_mono",
-        "name": "Solar Cell Mono",
+        "name": "太阳能电池单体",
         "icon": "SolarCellMono.png",
         "recipes": {
             "input": [
@@ -5927,7 +5927,7 @@
     },
     "sour_water": {
         "id": "sour_water",
-        "name": "Sour Water",
+        "name": "酸水",
         "icon": "SourWater.png",
         "recipes": {
             "input": [
@@ -5971,7 +5971,7 @@
     },
     "soybean": {
         "id": "soybean",
-        "name": "Soybean",
+        "name": "大豆",
         "icon": "Soybean.png",
         "recipes": {
             "input": [
@@ -6010,7 +6010,7 @@
     },
     "spent_fuel": {
         "id": "spent_fuel",
-        "name": "Spent Fuel",
+        "name": "乏燃料",
         "icon": "SpentFuel.png",
         "recipes": {
             "input": [
@@ -6236,7 +6236,7 @@
     },
     "steel": {
         "id": "steel",
-        "name": "Steel",
+        "name": "钢",
         "icon": "Steel.png",
         "recipes": {
             "input": [
@@ -6310,7 +6310,7 @@
     },
     "sugar": {
         "id": "sugar",
-        "name": "Sugar",
+        "name": "糖",
         "icon": "Sugar.png",
         "recipes": {
             "input": [
@@ -6350,7 +6350,7 @@
     },
     "sugar_cane": {
         "id": "sugar_cane",
-        "name": "Sugar Cane",
+        "name": "甘蔗",
         "icon": "SugarCane.png",
         "recipes": {
             "input": [
@@ -6385,7 +6385,7 @@
     },
     "sulfur": {
         "id": "sulfur",
-        "name": "Sulfur",
+        "name": "硫",
         "icon": "Sulfur.png",
         "recipes": {
             "input": [
@@ -6434,7 +6434,7 @@
     },
     "tofu": {
         "id": "tofu",
-        "name": "Tofu",
+        "name": "豆腐",
         "icon": "Tofu.png",
         "recipes": {
             "input": [
@@ -6473,7 +6473,7 @@
     },
     "toxic_slurry": {
         "id": "toxic_slurry",
-        "name": "Toxic Slurry",
+        "name": "有毒浆液",
         "icon": "ToxicSlurry.png",
         "recipes": {
             "input": [
@@ -6513,7 +6513,7 @@
     },
     "uranium_ore": {
         "id": "uranium_ore",
-        "name": "Uranium Ore",
+        "name": "铀矿石",
         "icon": "UraniumOre.png",
         "recipes": {
             "input": [
@@ -6626,7 +6626,7 @@
     },
     "uranium_rod": {
         "id": "uranium_rod",
-        "name": "Uranium Rod",
+        "name": "铀棒",
         "icon": "UraniumRod.png",
         "recipes": {
             "input": [
@@ -6667,7 +6667,7 @@
     },
     "vegetables": {
         "id": "vegetables",
-        "name": "Vegetables",
+        "name": "蔬菜",
         "icon": "Vegetables.png",
         "recipes": {
             "input": [
@@ -6704,7 +6704,7 @@
     },
     "vehicle_parts": {
         "id": "vehicle_parts",
-        "name": "Vehicle Parts",
+        "name": "车辆零件",
         "icon": "VehicleParts.png",
         "recipes": {
             "input": [
@@ -6753,7 +6753,7 @@
     },
     "vehicle_parts_ii": {
         "id": "vehicle_parts_ii",
-        "name": "Vehicle Parts II",
+        "name": "车辆零件 II",
         "icon": "VehicleParts2.png",
         "recipes": {
             "input": [
@@ -6798,7 +6798,7 @@
     },
     "vehicle_parts_iii": {
         "id": "vehicle_parts_iii",
-        "name": "Vehicle Parts III",
+        "name": "车辆零件 III",
         "icon": "VehicleParts3.png",
         "recipes": {
             "input": [
@@ -6839,7 +6839,7 @@
     },
     "waste": {
         "id": "waste",
-        "name": "Waste",
+        "name": "垃圾",
         "icon": "Waste.png",
         "recipes": {
             "input": [
@@ -6876,7 +6876,7 @@
     },
     "waste_water": {
         "id": "waste_water",
-        "name": "Waste Water",
+        "name": "废水",
         "icon": "WasteWater.png",
         "recipes": {
             "input": [
@@ -6919,7 +6919,7 @@
     },
     "water": {
         "id": "water",
-        "name": "Water",
+        "name": "水",
         "icon": "Water.png",
         "recipes": {
             "input": [
@@ -7053,7 +7053,7 @@
     },
     "water_pollution": {
         "id": "water_pollution",
-        "name": "Water Pollution",
+        "name": "水污染",
         "icon": "WaterPollution.png",
         "recipes": {
             "input": [],
@@ -7073,7 +7073,7 @@
     },
     "wheat": {
         "id": "wheat",
-        "name": "Wheat",
+        "name": "小麦",
         "icon": "Wheat.png",
         "recipes": {
             "input": [
@@ -7112,7 +7112,7 @@
     },
     "wood": {
         "id": "wood",
-        "name": "Wood",
+        "name": "木材",
         "icon": "Wood.png",
         "recipes": {
             "input": [
