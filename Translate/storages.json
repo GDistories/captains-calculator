@@ -7795,13 +7795,13 @@
                     "duration": 0,
                     "inputs": [
                         {
-                            "name": "Steam hi",
+                            "name": "蒸汽（高压）",
                             "quantity": 4320
                         }
                     ],
                     "outputs": [
                         {
-                            "name": "Steam hi",
+                            "name": "蒸汽（高压）",
                             "quantity": 4320
                         }
                     ]
@@ -8330,13 +8330,13 @@
                     "duration": 0,
                     "inputs": [
                         {
-                            "name": "Steam hi",
+                            "name": "蒸汽（高压）",
                             "quantity": 2160
                         }
                     ],
                     "outputs": [
                         {
-                            "name": "Steam hi",
+                            "name": "蒸汽（高压）",
                             "quantity": 2160
                         }
                     ]
@@ -8865,13 +8865,13 @@
                     "duration": 0,
                     "inputs": [
                         {
-                            "name": "Steam hi",
+                            "name": "蒸汽（高压）",
                             "quantity": 360
                         }
                     ],
                     "outputs": [
                         {
-                            "name": "Steam hi",
+                            "name": "蒸汽（高压）",
                             "quantity": 360
                         }
                     ]
@@ -9400,13 +9400,13 @@
                     "duration": 0,
                     "inputs": [
                         {
-                            "name": "Steam hi",
+                            "name": "蒸汽（高压）",
                             "quantity": 180
                         }
                     ],
                     "outputs": [
                         {
-                            "name": "Steam hi",
+                            "name": "蒸汽（高压）",
                             "quantity": 180
                         }
                     ]

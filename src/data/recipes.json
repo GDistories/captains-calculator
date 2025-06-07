@@ -4637,7 +4637,7 @@
             },
             {
                 "id": "steam_hi",
-                "name": "Steam Hi",
+                "name": "蒸汽（高压）",
                 "quantity": 6
             }
         ],
@@ -4672,7 +4672,7 @@
             },
             {
                 "id": "steam_hi",
-                "name": "Steam Hi",
+                "name": "蒸汽（高压）",
                 "quantity": 6
             }
         ],
@@ -4877,7 +4877,7 @@
             },
             {
                 "id": "steam_hi",
-                "name": "Steam Hi",
+                "name": "蒸汽（高压）",
                 "quantity": 3
             }
         ],
@@ -8894,7 +8894,7 @@
             },
             {
                 "id": "steam_hi",
-                "name": "Steam Hi",
+                "name": "蒸汽（高压）",
                 "quantity": 3
             }
         ],
@@ -9079,7 +9079,7 @@
         "inputs": [
             {
                 "id": "steam_hi",
-                "name": "Steam Hi",
+                "name": "蒸汽（高压）",
                 "quantity": 24
             }
         ],
@@ -9099,7 +9099,7 @@
         "inputs": [
             {
                 "id": "steam_hi",
-                "name": "Steam Hi",
+                "name": "蒸汽（高压）",
                 "quantity": 96
             }
         ],
@@ -9598,7 +9598,7 @@
             },
             {
                 "id": "steam_hi",
-                "name": "Steam Hi",
+                "name": "蒸汽（高压）",
                 "quantity": 3
             }
         ],
@@ -15001,7 +15001,7 @@
             },
             {
                 "id": "steam_hi",
-                "name": "Steam Hi",
+                "name": "蒸汽（高压）",
                 "quantity": 6
             }
         ],
@@ -15198,7 +15198,7 @@
         "outputs": [
             {
                 "id": "steam_hi",
-                "name": "Steam Hi",
+                "name": "蒸汽（高压）",
                 "quantity": 288
             },
             {
@@ -15984,7 +15984,7 @@
         "inputs": [
             {
                 "id": "steam_hi",
-                "name": "Steam Hi",
+                "name": "蒸汽（高压）",
                 "quantity": 60
             }
         ],
@@ -16094,7 +16094,7 @@
         "inputs": [
             {
                 "id": "steam_hi",
-                "name": "Steam Hi",
+                "name": "蒸汽（高压）",
                 "quantity": 600
             }
         ],
@@ -17547,7 +17547,7 @@
             },
             {
                 "id": "steam_hi",
-                "name": "Steam Hi",
+                "name": "蒸汽（高压）",
                 "quantity": 12
             },
             {
@@ -18583,7 +18583,7 @@
             },
             {
                 "id": "steam_hi",
-                "name": "Steam Hi",
+                "name": "蒸汽（高压）",
                 "quantity": 6
             }
         ],
@@ -18910,7 +18910,7 @@
         "outputs": [
             {
                 "id": "steam_hi",
-                "name": "Steam Hi",
+                "name": "蒸汽（高压）",
                 "quantity": 48
             },
             {
@@ -18940,7 +18940,7 @@
         "outputs": [
             {
                 "id": "steam_hi",
-                "name": "Steam Hi",
+                "name": "蒸汽（高压）",
                 "quantity": 48
             },
             {
@@ -18965,7 +18965,7 @@
         "outputs": [
             {
                 "id": "steam_hi",
-                "name": "Steam Hi",
+                "name": "蒸汽（高压）",
                 "quantity": 24
             }
         ]
@@ -18990,7 +18990,7 @@
         "outputs": [
             {
                 "id": "steam_hi",
-                "name": "Steam Hi",
+                "name": "蒸汽（高压）",
                 "quantity": 48
             },
             {
@@ -19020,7 +19020,7 @@
         "outputs": [
             {
                 "id": "steam_hi",
-                "name": "Steam Hi",
+                "name": "蒸汽（高压）",
                 "quantity": 48
             },
             {
@@ -19050,7 +19050,7 @@
         "outputs": [
             {
                 "id": "steam_hi",
-                "name": "Steam Hi",
+                "name": "蒸汽（高压）",
                 "quantity": 48
             },
             {
@@ -19080,7 +19080,7 @@
         "outputs": [
             {
                 "id": "steam_hi",
-                "name": "Steam Hi",
+                "name": "蒸汽（高压）",
                 "quantity": 48
             },
             {
@@ -19110,7 +19110,7 @@
         "outputs": [
             {
                 "id": "steam_hi",
-                "name": "Steam Hi",
+                "name": "蒸汽（高压）",
                 "quantity": 48
             },
             {
@@ -19140,7 +19140,7 @@
         "outputs": [
             {
                 "id": "steam_hi",
-                "name": "Steam Hi",
+                "name": "蒸汽（高压）",
                 "quantity": 48
             },
             {
@@ -19170,7 +19170,7 @@
         "outputs": [
             {
                 "id": "steam_hi",
-                "name": "Steam Hi",
+                "name": "蒸汽（高压）",
                 "quantity": 48
             },
             {
@@ -19200,7 +19200,7 @@
         "outputs": [
             {
                 "id": "steam_hi",
-                "name": "Steam Hi",
+                "name": "蒸汽（高压）",
                 "quantity": 48
             },
             {
@@ -19218,14 +19218,14 @@
         "inputs": [
             {
                 "id": "steam_hi",
-                "name": "Steam Hi",
+                "name": "蒸汽（高压）",
                 "quantity": 4320
             }
         ],
         "outputs": [
             {
                 "id": "steam_hi",
-                "name": "Steam Hi",
+                "name": "蒸汽（高压）",
                 "quantity": 4320
             }
         ]
@@ -19238,14 +19238,14 @@
         "inputs": [
             {
                 "id": "steam_hi",
-                "name": "Steam Hi",
+                "name": "蒸汽（高压）",
                 "quantity": 2160
             }
         ],
         "outputs": [
             {
                 "id": "steam_hi",
-                "name": "Steam Hi",
+                "name": "蒸汽（高压）",
                 "quantity": 2160
             }
         ]
@@ -19258,14 +19258,14 @@
         "inputs": [
             {
                 "id": "steam_hi",
-                "name": "Steam Hi",
+                "name": "蒸汽（高压）",
                 "quantity": 360
             }
         ],
         "outputs": [
             {
                 "id": "steam_hi",
-                "name": "Steam Hi",
+                "name": "蒸汽（高压）",
                 "quantity": 360
             }
         ]
@@ -19278,14 +19278,14 @@
         "inputs": [
             {
                 "id": "steam_hi",
-                "name": "Steam Hi",
+                "name": "蒸汽（高压）",
                 "quantity": 180
             }
         ],
         "outputs": [
             {
                 "id": "steam_hi",
-                "name": "Steam Hi",
+                "name": "蒸汽（高压）",
                 "quantity": 180
             }
         ]
@@ -19888,7 +19888,7 @@
             },
             {
                 "id": "steam_hi",
-                "name": "Steam Hi",
+                "name": "蒸汽（高压）",
                 "quantity": 12
             }
         ],
@@ -20248,7 +20248,7 @@
         "inputs": [
             {
                 "id": "steam_hi",
-                "name": "Steam Hi",
+                "name": "蒸汽（高压）",
                 "quantity": 24
             }
         ],
@@ -20273,7 +20273,7 @@
         "inputs": [
             {
                 "id": "steam_hi",
-                "name": "Steam Hi",
+                "name": "蒸汽（高压）",
                 "quantity": 48
             }
         ],

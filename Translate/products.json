@@ -6098,7 +6098,7 @@
     },
     "steam_hi": {
         "id": "steam_hi",
-        "name": "Steam Hi",
+        "name": "蒸汽（高压）",
         "icon": "SteamHi.png",
         "recipes": {
             "input": [
