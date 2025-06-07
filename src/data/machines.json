@@ -941,7 +941,7 @@
         "id": "boiler_electric",
         "game_id": "BoilerElectric",
         "icon": "BoilerElectric.png",
-        "name": "Boiler (Electric)",
+        "name": "锅炉（电）",
         "category_id": "water_extraction_and_processing",
         "category_name": "Water Extraction & Processing",
         "isMine": false,

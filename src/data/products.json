@@ -2845,7 +2845,7 @@
     },
     "heavy_oil": {
         "id": "heavy_oil",
-        "name": "Heavy Oil",
+        "name": "重油",
         "icon": "HeavyOil.png",
         "recipes": {
             "input": [
@@ -4802,7 +4802,7 @@
     },
     "naphtha": {
         "id": "naphtha",
-        "name": "Naphtha",
+        "name": "石油脑",
         "icon": "Naphtha.png",
         "recipes": {
             "input": [

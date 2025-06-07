@@ -7891,13 +7891,13 @@
                     "duration": 0,
                     "inputs": [
                         {
-                            "name": "Naphtha",
+                            "name": "石油脑",
                             "quantity": 4320
                         }
                     ],
                     "outputs": [
                         {
-                            "name": "Naphtha",
+                            "name": "石油脑",
                             "quantity": 4320
                         }
                     ]
@@ -7971,13 +7971,13 @@
                     "duration": 0,
                     "inputs": [
                         {
-                            "name": "Heavy oil",
+                            "name": "重油",
                             "quantity": 4320
                         }
                     ],
                     "outputs": [
                         {
-                            "name": "Heavy oil",
+                            "name": "重油",
                             "quantity": 4320
                         }
                     ]
@@ -8426,13 +8426,13 @@
                     "duration": 0,
                     "inputs": [
                         {
-                            "name": "Naphtha",
+                            "name": "石油脑",
                             "quantity": 2160
                         }
                     ],
                     "outputs": [
                         {
-                            "name": "Naphtha",
+                            "name": "石油脑",
                             "quantity": 2160
                         }
                     ]
@@ -8506,13 +8506,13 @@
                     "duration": 0,
                     "inputs": [
                         {
-                            "name": "Heavy oil",
+                            "name": "重油",
                             "quantity": 2160
                         }
                     ],
                     "outputs": [
                         {
-                            "name": "Heavy oil",
+                            "name": "重油",
                             "quantity": 2160
                         }
                     ]
@@ -8961,13 +8961,13 @@
                     "duration": 0,
                     "inputs": [
                         {
-                            "name": "Naphtha",
+                            "name": "石油脑",
                             "quantity": 360
                         }
                     ],
                     "outputs": [
                         {
-                            "name": "Naphtha",
+                            "name": "石油脑",
                             "quantity": 360
                         }
                     ]
@@ -9041,13 +9041,13 @@
                     "duration": 0,
                     "inputs": [
                         {
-                            "name": "Heavy oil",
+                            "name": "重油",
                             "quantity": 360
                         }
                     ],
                     "outputs": [
                         {
-                            "name": "Heavy oil",
+                            "name": "重油",
                             "quantity": 360
                         }
                     ]
@@ -9496,13 +9496,13 @@
                     "duration": 0,
                     "inputs": [
                         {
-                            "name": "Naphtha",
+                            "name": "石油脑",
                             "quantity": 180
                         }
                     ],
                     "outputs": [
                         {
-                            "name": "Naphtha",
+                            "name": "石油脑",
                             "quantity": 180
                         }
                     ]
@@ -9576,13 +9576,13 @@
                     "duration": 0,
                     "inputs": [
                         {
-                            "name": "Heavy oil",
+                            "name": "重油",
                             "quantity": 180
                         }
                     ],
                     "outputs": [
                         {
-                            "name": "Heavy oil",
+                            "name": "重油",
                             "quantity": 180
                         }
                     ]

@@ -4633,12 +4633,12 @@
             {
                 "id": "crude_oil",
                 "name": "原油",
-                "quantity": 54
+                "quantity": 60
             },
             {
                 "id": "steam_hi",
                 "name": "Steam Hi",
-                "quantity": 9
+                "quantity": 6
             }
         ],
         "outputs": [
@@ -4649,8 +4649,8 @@
             },
             {
                 "id": "heavy_oil",
-                "name": "Heavy Oil",
-                "quantity": 6
+                "name": "重油",
+                "quantity": 12
             },
             {
                 "id": "sour_water",
@@ -4884,7 +4884,7 @@
         "outputs": [
             {
                 "id": "naphtha",
-                "name": "Naphtha",
+                "name": "石油脑",
                 "quantity": 18
             },
             {
@@ -8901,7 +8901,7 @@
         "outputs": [
             {
                 "id": "naphtha",
-                "name": "Naphtha",
+                "name": "石油脑",
                 "quantity": 12
             },
             {
@@ -8919,7 +8919,7 @@
         "inputs": [
             {
                 "id": "heavy_oil",
-                "name": "Heavy Oil",
+                "name": "重油",
                 "quantity": 24
             }
         ],
@@ -8939,14 +8939,14 @@
         "inputs": [
             {
                 "id": "heavy_oil",
-                "name": "Heavy Oil",
+                "name": "重油",
                 "quantity": 4320
             }
         ],
         "outputs": [
             {
                 "id": "heavy_oil",
-                "name": "Heavy Oil",
+                "name": "重油",
                 "quantity": 4320
             }
         ]
@@ -8959,14 +8959,14 @@
         "inputs": [
             {
                 "id": "heavy_oil",
-                "name": "Heavy Oil",
+                "name": "重油",
                 "quantity": 2160
             }
         ],
         "outputs": [
             {
                 "id": "heavy_oil",
-                "name": "Heavy Oil",
+                "name": "重油",
                 "quantity": 2160
             }
         ]
@@ -8979,14 +8979,14 @@
         "inputs": [
             {
                 "id": "heavy_oil",
-                "name": "Heavy Oil",
+                "name": "重油",
                 "quantity": 360
             }
         ],
         "outputs": [
             {
                 "id": "heavy_oil",
-                "name": "Heavy Oil",
+                "name": "重油",
                 "quantity": 360
             }
         ]
@@ -8999,14 +8999,14 @@
         "inputs": [
             {
                 "id": "heavy_oil",
-                "name": "Heavy Oil",
+                "name": "重油",
                 "quantity": 180
             }
         ],
         "outputs": [
             {
                 "id": "heavy_oil",
-                "name": "Heavy Oil",
+                "name": "重油",
                 "quantity": 180
             }
         ]
@@ -9019,7 +9019,7 @@
         "inputs": [
             {
                 "id": "heavy_oil",
-                "name": "Heavy Oil",
+                "name": "重油",
                 "quantity": 12
             },
             {
@@ -9049,7 +9049,7 @@
         "inputs": [
             {
                 "id": "heavy_oil",
-                "name": "Heavy Oil",
+                "name": "重油",
                 "quantity": 12
             },
             {
@@ -9061,7 +9061,7 @@
         "outputs": [
             {
                 "id": "naphtha",
-                "name": "Naphtha",
+                "name": "石油脑",
                 "quantity": 18
             },
             {
@@ -14946,7 +14946,7 @@
         "inputs": [
             {
                 "id": "naphtha",
-                "name": "Naphtha",
+                "name": "石油脑",
                 "quantity": 36
             }
         ],
@@ -14966,7 +14966,7 @@
         "inputs": [
             {
                 "id": "naphtha",
-                "name": "Naphtha",
+                "name": "石油脑",
                 "quantity": 18
             },
             {
@@ -14996,7 +14996,7 @@
         "inputs": [
             {
                 "id": "naphtha",
-                "name": "Naphtha",
+                "name": "石油脑",
                 "quantity": 24
             },
             {
@@ -15026,14 +15026,14 @@
         "inputs": [
             {
                 "id": "naphtha",
-                "name": "Naphtha",
+                "name": "石油脑",
                 "quantity": 4320
             }
         ],
         "outputs": [
             {
                 "id": "naphtha",
-                "name": "Naphtha",
+                "name": "石油脑",
                 "quantity": 4320
             }
         ]
@@ -15046,14 +15046,14 @@
         "inputs": [
             {
                 "id": "naphtha",
-                "name": "Naphtha",
+                "name": "石油脑",
                 "quantity": 2160
             }
         ],
         "outputs": [
             {
                 "id": "naphtha",
-                "name": "Naphtha",
+                "name": "石油脑",
                 "quantity": 2160
             }
         ]
@@ -15066,14 +15066,14 @@
         "inputs": [
             {
                 "id": "naphtha",
-                "name": "Naphtha",
+                "name": "石油脑",
                 "quantity": 360
             }
         ],
         "outputs": [
             {
                 "id": "naphtha",
-                "name": "Naphtha",
+                "name": "石油脑",
                 "quantity": 360
             }
         ]
@@ -15086,14 +15086,14 @@
         "inputs": [
             {
                 "id": "naphtha",
-                "name": "Naphtha",
+                "name": "石油脑",
                 "quantity": 180
             }
         ],
         "outputs": [
             {
                 "id": "naphtha",
-                "name": "Naphtha",
+                "name": "石油脑",
                 "quantity": 180
             }
         ]
@@ -15246,7 +15246,7 @@
             {
                 "id": "crude_oil",
                 "name": "原油",
-                "quantity": 18
+                "quantity": 20
             }
         ]
     },
@@ -15528,7 +15528,7 @@
         "inputs": [
             {
                 "id": "naphtha",
-                "name": "Naphtha",
+                "name": "石油脑",
                 "quantity": 12
             },
             {
@@ -16462,7 +16462,7 @@
         "inputs": [
             {
                 "id": "naphtha",
-                "name": "Naphtha",
+                "name": "石油脑",
                 "quantity": 12
             },
             {
@@ -16512,7 +16512,7 @@
         "inputs": [
             {
                 "id": "naphtha",
-                "name": "Naphtha",
+                "name": "石油脑",
                 "quantity": 8
             },
             {
@@ -19043,7 +19043,7 @@
             },
             {
                 "id": "heavy_oil",
-                "name": "Heavy Oil",
+                "name": "重油",
                 "quantity": 24
             }
         ],
@@ -19133,7 +19133,7 @@
             },
             {
                 "id": "naphtha",
-                "name": "Naphtha",
+                "name": "石油脑",
                 "quantity": 36
             }
         ],
