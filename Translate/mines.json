@@ -1,0 +1,412 @@
+{
+    "mines": [
+        {
+            "id": "MineTower",
+            "name": "Dirt Mine",
+            "category": "Mines",
+            "workers": 0,
+            "maintenance_cost_units": "",
+            "maintenance_cost_quantity": 0,
+            "electricity_consumed": 0,
+            "electricity_generated": 0,
+            "computing_consumed": 0,
+            "computing_generated": 0,
+            "storage_capacity": 0,
+            "unity_cost": 0,
+            "research_speed": 0,
+            "build_costs": [
+                {
+                    "product": "Construction Parts",
+                    "quantity": 20
+                }
+            ],
+            "recipes": [
+                {
+                    "name": "Dirt Mining",
+                    "duration": 0,
+                    "inputs": [],
+                    "outputs": [
+                        {
+                            "name": "土",
+                            "quantity": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "MineTower",
+            "name": "岩矿",
+            "category": "Mines",
+            "workers": 0,
+            "maintenance_cost_units": "",
+            "maintenance_cost_quantity": 0,
+            "electricity_consumed": 0,
+            "electricity_generated": 0,
+            "computing_consumed": 0,
+            "computing_generated": 0,
+            "storage_capacity": 0,
+            "unity_cost": 0,
+            "research_speed": 0,
+            "build_costs": [
+                {
+                    "product": "Construction Parts",
+                    "quantity": 20
+                }
+            ],
+            "recipes": [
+                {
+                    "name": "Rock Mining",
+                    "duration": 0,
+                    "inputs": [],
+                    "outputs": [
+                        {
+                            "name": "岩石",
+                            "quantity": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "MineTower",
+            "name": "Gravel Mine",
+            "category": "Mines",
+            "workers": 0,
+            "maintenance_cost_units": "",
+            "maintenance_cost_quantity": 0,
+            "electricity_consumed": 0,
+            "electricity_generated": 0,
+            "computing_consumed": 0,
+            "computing_generated": 0,
+            "storage_capacity": 0,
+            "unity_cost": 0,
+            "research_speed": 0,
+            "build_costs": [
+                {
+                    "product": "Construction Parts",
+                    "quantity": 20
+                }
+            ],
+            "recipes": [
+                {
+                    "name": "Gravel Mining",
+                    "duration": 0,
+                    "inputs": [],
+                    "outputs": [
+                        {
+                            "name": "碎石",
+                            "quantity": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "MineTower",
+            "name": "Sand Mine",
+            "category": "Mines",
+            "workers": 0,
+            "maintenance_cost_units": "",
+            "maintenance_cost_quantity": 0,
+            "electricity_consumed": 0,
+            "electricity_generated": 0,
+            "computing_consumed": 0,
+            "computing_generated": 0,
+            "storage_capacity": 0,
+            "unity_cost": 0,
+            "research_speed": 0,
+            "build_costs": [
+                {
+                    "product": "Construction Parts",
+                    "quantity": 20
+                }
+            ],
+            "recipes": [
+                {
+                    "name": "Sand Mining",
+                    "duration": 0,
+                    "inputs": [],
+                    "outputs": [
+                        {
+                            "name": "沙",
+                            "quantity": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "MineTower",
+            "name": "Limestone Mine",
+            "category": "Mines",
+            "workers": 0,
+            "maintenance_cost_units": "",
+            "maintenance_cost_quantity": 0,
+            "electricity_consumed": 0,
+            "electricity_generated": 0,
+            "computing_consumed": 0,
+            "computing_generated": 0,
+            "storage_capacity": 0,
+            "unity_cost": 0,
+            "research_speed": 0,
+            "build_costs": [
+                {
+                    "product": "Construction Parts",
+                    "quantity": 20
+                }
+            ],
+            "recipes": [
+                {
+                    "name": "Limestone Mining",
+                    "duration": 0,
+                    "inputs": [],
+                    "outputs": [
+                        {
+                            "name": "石灰石",
+                            "quantity": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "MineTower",
+            "name": "煤矿",
+            "category": "Mines",
+            "workers": 0,
+            "maintenance_cost_units": "",
+            "maintenance_cost_quantity": 0,
+            "electricity_consumed": 0,
+            "electricity_generated": 0,
+            "computing_consumed": 0,
+            "computing_generated": 0,
+            "storage_capacity": 0,
+            "unity_cost": 0,
+            "research_speed": 0,
+            "build_costs": [
+                {
+                    "product": "Construction Parts",
+                    "quantity": 20
+                }
+            ],
+            "recipes": [
+                {
+                    "name": "Coal Mining",
+                    "duration": 0,
+                    "inputs": [],
+                    "outputs": [
+                        {
+                            "name": "煤",
+                            "quantity": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "MineTower",
+            "name": "Slag Mine",
+            "category": "Mines",
+            "workers": 0,
+            "maintenance_cost_units": "",
+            "maintenance_cost_quantity": 0,
+            "electricity_consumed": 0,
+            "electricity_generated": 0,
+            "computing_consumed": 0,
+            "computing_generated": 0,
+            "storage_capacity": 0,
+            "unity_cost": 0,
+            "research_speed": 0,
+            "build_costs": [
+                {
+                    "product": "Construction Parts",
+                    "quantity": 20
+                }
+            ],
+            "recipes": [
+                {
+                    "name": "Slag Mining",
+                    "duration": 0,
+                    "inputs": [],
+                    "outputs": [
+                        {
+                            "name": "矿渣",
+                            "quantity": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "MineTower",
+            "name": "Slag crushed Mine",
+            "category": "Mines",
+            "workers": 0,
+            "maintenance_cost_units": "",
+            "maintenance_cost_quantity": 0,
+            "electricity_consumed": 0,
+            "electricity_generated": 0,
+            "computing_consumed": 0,
+            "computing_generated": 0,
+            "storage_capacity": 0,
+            "unity_cost": 0,
+            "research_speed": 0,
+            "build_costs": [
+                {
+                    "product": "Construction Parts",
+                    "quantity": 20
+                }
+            ],
+            "recipes": [
+                {
+                    "name": "Slag crushed Mining",
+                    "duration": 0,
+                    "inputs": [],
+                    "outputs": [
+                        {
+                            "name": "碎矿渣",
+                            "quantity": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "MineTower",
+            "name": "Iron Mine",
+            "category": "Mines",
+            "workers": 0,
+            "maintenance_cost_units": "",
+            "maintenance_cost_quantity": 0,
+            "electricity_consumed": 0,
+            "electricity_generated": 0,
+            "computing_consumed": 0,
+            "computing_generated": 0,
+            "storage_capacity": 0,
+            "unity_cost": 0,
+            "research_speed": 0,
+            "build_costs": [
+                {
+                    "product": "Construction Parts",
+                    "quantity": 20
+                }
+            ],
+            "recipes": [
+                {
+                    "name": "Iron Mining",
+                    "duration": 0,
+                    "inputs": [],
+                    "outputs": [
+                        {
+                            "name": "铁矿石",
+                            "quantity": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "MineTower",
+            "name": "Copper Mine",
+            "category": "Mines",
+            "workers": 0,
+            "maintenance_cost_units": "",
+            "maintenance_cost_quantity": 0,
+            "electricity_consumed": 0,
+            "electricity_generated": 0,
+            "computing_consumed": 0,
+            "computing_generated": 0,
+            "storage_capacity": 0,
+            "unity_cost": 0,
+            "research_speed": 0,
+            "build_costs": [
+                {
+                    "product": "Construction Parts",
+                    "quantity": 20
+                }
+            ],
+            "recipes": [
+                {
+                    "name": "Copper Mining",
+                    "duration": 0,
+                    "inputs": [],
+                    "outputs": [
+                        {
+                            "name": "铜矿石",
+                            "quantity": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "MineTower",
+            "name": "Gold Mine",
+            "category": "Mines",
+            "workers": 0,
+            "maintenance_cost_units": "",
+            "maintenance_cost_quantity": 0,
+            "electricity_consumed": 0,
+            "electricity_generated": 0,
+            "computing_consumed": 0,
+            "computing_generated": 0,
+            "storage_capacity": 0,
+            "unity_cost": 0,
+            "research_speed": 0,
+            "build_costs": [
+                {
+                    "product": "Construction Parts",
+                    "quantity": 20
+                }
+            ],
+            "recipes": [
+                {
+                    "name": "Gold Mining",
+                    "duration": 0,
+                    "inputs": [],
+                    "outputs": [
+                        {
+                            "name": "金矿石",
+                            "quantity": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "MineTower",
+            "name": "Waste Mine",
+            "category": "Mines",
+            "workers": 0,
+            "maintenance_cost_units": "",
+            "maintenance_cost_quantity": 0,
+            "electricity_consumed": 0,
+            "electricity_generated": 0,
+            "computing_consumed": 0,
+            "computing_generated": 0,
+            "storage_capacity": 0,
+            "unity_cost": 0,
+            "research_speed": 0,
+            "build_costs": [
+                {
+                    "product": "Construction Parts",
+                    "quantity": 20
+                }
+            ],
+            "recipes": [
+                {
+                    "name": "Waste Mining",
+                    "duration": 0,
+                    "inputs": [],
+                    "outputs": [
+                        {
+                            "name": "垃圾",
+                            "quantity": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
