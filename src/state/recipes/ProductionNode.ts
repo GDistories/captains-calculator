@@ -220,9 +220,61 @@ class ProductionNode {
         return JSON.stringify(data)
     }
 
-    static fromJson(json: SerializedProductionNode): ProductionNode {
-        const node = Object.assign(Object.create(ProductionNode.prototype), json)
-        return node as ProductionNode
+    static fromJson(
+        json: SerializedProductionNode,
+        data: {
+            recipes: { [id: string]: Recipe };
+            machines: { [id: string]: Machine };
+            categories: { [id: string]: Category };
+            products: { [id: string]: Product };
+        }
+    ): ProductionNode {
+        const recipe = data.recipes[json.recipe.id] || json.recipe;
+        const machine = data.machines[recipe.machine] || json.machine;
+        const category = data.categories[machine.category_id] || json.category;
+
+        const inputs = recipe.inputs.map(({ id, quantity }) => ({
+            ...data.products[id],
+            quantity,
+        }));
+
+        const outputs = recipe.outputs.map(({ id, quantity }) => ({
+            ...data.products[id],
+            quantity,
+        }));
+
+        const node = new ProductionNode({
+            recipe,
+            machine,
+            category,
+            inputs,
+            outputs,
+            sources: json.sources,
+            targets: json.targets,
+        });
+
+        node.id = json.id;
+        node.duration = json.duration;
+        node.machinesCount = json.machinesCount;
+        node.updated = json.updated;
+
+        Object.keys(node.inputs).forEach(pid => {
+            if (json.inputs && json.inputs[pid]) {
+                node.inputs[pid].imported = json.inputs[pid].imported;
+                node.inputs[pid].imports = json.inputs[pid].imports;
+                node.inputs[pid].maxed = json.inputs[pid].maxed;
+            }
+        });
+
+        Object.keys(node.outputs).forEach(pid => {
+            if (json.outputs && json.outputs[pid]) {
+                node.outputs[pid].exported = json.outputs[pid].exported;
+                node.outputs[pid].exports = json.outputs[pid].exports;
+                node.outputs[pid].maxed = json.outputs[pid].maxed;
+            }
+        });
+
+        return node;
     }
 
     get nodeData(): RecipeNode[] {
