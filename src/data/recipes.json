@@ -4673,7 +4673,7 @@
             {
                 "id": "steam_hi",
                 "name": "蒸汽（高压）",
-                "quantity": 6
+                "quantity": 3
             }
         ],
         "outputs": [
@@ -4685,7 +4685,7 @@
             {
                 "id": "light_oil",
                 "name": "轻油",
-                "quantity": 12
+                "quantity": 30
             }
         ]
     },
@@ -8890,7 +8890,7 @@
             {
                 "id": "light_oil",
                 "name": "轻油",
-                "quantity": 12
+                "quantity": 30
             },
             {
                 "id": "steam_hi",
@@ -8902,12 +8902,12 @@
             {
                 "id": "naphtha",
                 "name": "石油脑",
-                "quantity": 12
+                "quantity": 24
             },
             {
                 "id": "fuel_gas",
                 "name": "燃气",
-                "quantity": 18
+                "quantity": 12
             }
         ]
     },
@@ -9020,19 +9020,19 @@
             {
                 "id": "heavy_oil",
                 "name": "重油",
-                "quantity": 12
+                "quantity": 24
             },
             {
                 "id": "hydrogen",
                 "name": "氢",
-                "quantity": 12
+                "quantity": 9
             }
         ],
         "outputs": [
             {
                 "id": "diesel",
                 "name": "柴油",
-                "quantity": 24
+                "quantity": 36
             },
             {
                 "id": "fuel_gas",
@@ -9050,24 +9050,24 @@
             {
                 "id": "heavy_oil",
                 "name": "重油",
-                "quantity": 12
+                "quantity": 24
             },
             {
                 "id": "hydrogen",
                 "name": "氢",
-                "quantity": 12
+                "quantity": 9
             }
         ],
         "outputs": [
             {
                 "id": "naphtha",
                 "name": "石油脑",
-                "quantity": 18
+                "quantity": 36
             },
             {
                 "id": "fuel_gas",
                 "name": "燃气",
-                "quantity": 12
+                "quantity": 6
             }
         ]
     },
@@ -9594,24 +9594,24 @@
             {
                 "id": "fuel_gas",
                 "name": "燃气",
-                "quantity": 36
+                "quantity": 24
             },
             {
                 "id": "steam_hi",
                 "name": "蒸汽（高压）",
-                "quantity": 3
+                "quantity": 2
             }
         ],
         "outputs": [
             {
                 "id": "hydrogen",
                 "name": "氢",
-                "quantity": 36
+                "quantity": 28
             },
             {
                 "id": "carbon_dioxide",
                 "name": "二氧化碳",
-                "quantity": 36
+                "quantity": 24
             }
         ]
     },
@@ -16475,7 +16475,7 @@
             {
                 "id": "rubber",
                 "name": "橡胶",
-                "quantity": 18
+                "quantity": 24
             }
         ]
     },
@@ -16500,7 +16500,7 @@
             {
                 "id": "rubber",
                 "name": "橡胶",
-                "quantity": 18
+                "quantity": 24
             }
         ]
     },
@@ -18584,24 +18584,24 @@
             {
                 "id": "steam_hi",
                 "name": "蒸汽（高压）",
-                "quantity": 6
+                "quantity": 3
             }
         ],
         "outputs": [
             {
                 "id": "sulfur",
                 "name": "硫",
-                "quantity": 12
+                "quantity": 9
             },
             {
                 "id": "ammonia",
                 "name": "氨",
-                "quantity": 12
+                "quantity": 9
             },
             {
                 "id": "water",
                 "name": "水",
-                "quantity": 24
+                "quantity": 21
             }
         ]
     },
